@@ -1,0 +1,5007 @@
+{
+  "policyId": "interviewtopia-go-2026-household-6-large",
+  "residents": 6,
+  "currency": "USD",
+  "bands": [
+    {
+      "minimumIncomeCents": 1050000000,
+      "maximumIncomeCents": 1059999999,
+      "rateBasisPoints": 525
+    },
+    {
+      "minimumIncomeCents": 2160000000,
+      "maximumIncomeCents": 2169999999,
+      "rateBasisPoints": 1080
+    },
+    {
+      "minimumIncomeCents": 5940000000,
+      "maximumIncomeCents": 5949999999,
+      "rateBasisPoints": 2970
+    },
+    {
+      "minimumIncomeCents": 7780000000,
+      "maximumIncomeCents": 7789999999,
+      "rateBasisPoints": 3890
+    },
+    {
+      "minimumIncomeCents": 8000000000,
+      "maximumIncomeCents": 8009999999,
+      "rateBasisPoints": 4000
+    },
+    {
+      "minimumIncomeCents": 9200000000,
+      "maximumIncomeCents": 9209999999,
+      "rateBasisPoints": 4600
+    },
+    {
+      "minimumIncomeCents": 9310000000,
+      "maximumIncomeCents": 9319999999,
+      "rateBasisPoints": 4655
+    },
+    {
+      "minimumIncomeCents": 8540000000,
+      "maximumIncomeCents": 8549999999,
+      "rateBasisPoints": 4270
+    },
+    {
+      "minimumIncomeCents": 2880000000,
+      "maximumIncomeCents": 2889999999,
+      "rateBasisPoints": 1440
+    },
+    {
+      "minimumIncomeCents": 4450000000,
+      "maximumIncomeCents": 4459999999,
+      "rateBasisPoints": 2225
+    },
+    {
+      "minimumIncomeCents": 1150000000,
+      "maximumIncomeCents": 1159999999,
+      "rateBasisPoints": 575
+    },
+    {
+      "minimumIncomeCents": 9420000000,
+      "maximumIncomeCents": 9429999999,
+      "rateBasisPoints": 4710
+    },
+    {
+      "minimumIncomeCents": 440000000,
+      "maximumIncomeCents": 449999999,
+      "rateBasisPoints": 220
+    },
+    {
+      "minimumIncomeCents": 6200000000,
+      "maximumIncomeCents": 6209999999,
+      "rateBasisPoints": 3100
+    },
+    {
+      "minimumIncomeCents": 6630000000,
+      "maximumIncomeCents": 6639999999,
+      "rateBasisPoints": 3315
+    },
+    {
+      "minimumIncomeCents": 8080000000,
+      "maximumIncomeCents": 8089999999,
+      "rateBasisPoints": 4040
+    },
+    {
+      "minimumIncomeCents": 140000000,
+      "maximumIncomeCents": 149999999,
+      "rateBasisPoints": 70
+    },
+    {
+      "minimumIncomeCents": 4330000000,
+      "maximumIncomeCents": 4339999999,
+      "rateBasisPoints": 2165
+    },
+    {
+      "minimumIncomeCents": 2550000000,
+      "maximumIncomeCents": 2559999999,
+      "rateBasisPoints": 1275
+    },
+    {
+      "minimumIncomeCents": 4150000000,
+      "maximumIncomeCents": 4159999999,
+      "rateBasisPoints": 2075
+    },
+    {
+      "minimumIncomeCents": 4580000000,
+      "maximumIncomeCents": 4589999999,
+      "rateBasisPoints": 2290
+    },
+    {
+      "minimumIncomeCents": 9220000000,
+      "maximumIncomeCents": 9229999999,
+      "rateBasisPoints": 4610
+    },
+    {
+      "minimumIncomeCents": 6660000000,
+      "maximumIncomeCents": 6669999999,
+      "rateBasisPoints": 3330
+    },
+    {
+      "minimumIncomeCents": 3450000000,
+      "maximumIncomeCents": 3459999999,
+      "rateBasisPoints": 1725
+    },
+    {
+      "minimumIncomeCents": 6360000000,
+      "maximumIncomeCents": 6369999999,
+      "rateBasisPoints": 3180
+    },
+    {
+      "minimumIncomeCents": 6170000000,
+      "maximumIncomeCents": 6179999999,
+      "rateBasisPoints": 3085
+    },
+    {
+      "minimumIncomeCents": 3690000000,
+      "maximumIncomeCents": 3699999999,
+      "rateBasisPoints": 1845
+    },
+    {
+      "minimumIncomeCents": 5360000000,
+      "maximumIncomeCents": 5369999999,
+      "rateBasisPoints": 2680
+    },
+    {
+      "minimumIncomeCents": 8940000000,
+      "maximumIncomeCents": 8949999999,
+      "rateBasisPoints": 4470
+    },
+    {
+      "minimumIncomeCents": 9510000000,
+      "maximumIncomeCents": 9519999999,
+      "rateBasisPoints": 4755
+    },
+    {
+      "minimumIncomeCents": 980000000,
+      "maximumIncomeCents": 989999999,
+      "rateBasisPoints": 490
+    },
+    {
+      "minimumIncomeCents": 9570000000,
+      "maximumIncomeCents": 9579999999,
+      "rateBasisPoints": 4785
+    },
+    {
+      "minimumIncomeCents": 8950000000,
+      "maximumIncomeCents": 8959999999,
+      "rateBasisPoints": 4475
+    },
+    {
+      "minimumIncomeCents": 5440000000,
+      "maximumIncomeCents": 5449999999,
+      "rateBasisPoints": 2720
+    },
+    {
+      "minimumIncomeCents": 80000000,
+      "maximumIncomeCents": 89999999,
+      "rateBasisPoints": 40
+    },
+    {
+      "minimumIncomeCents": 7640000000,
+      "maximumIncomeCents": 7649999999,
+      "rateBasisPoints": 3820
+    },
+    {
+      "minimumIncomeCents": 5930000000,
+      "maximumIncomeCents": 5939999999,
+      "rateBasisPoints": 2965
+    },
+    {
+      "minimumIncomeCents": 5290000000,
+      "maximumIncomeCents": 5299999999,
+      "rateBasisPoints": 2645
+    },
+    {
+      "minimumIncomeCents": 9560000000,
+      "maximumIncomeCents": 9569999999,
+      "rateBasisPoints": 4780
+    },
+    {
+      "minimumIncomeCents": 9350000000,
+      "maximumIncomeCents": 9359999999,
+      "rateBasisPoints": 4675
+    },
+    {
+      "minimumIncomeCents": 9110000000,
+      "maximumIncomeCents": 9119999999,
+      "rateBasisPoints": 4555
+    },
+    {
+      "minimumIncomeCents": 2190000000,
+      "maximumIncomeCents": 2199999999,
+      "rateBasisPoints": 1095
+    },
+    {
+      "minimumIncomeCents": 2620000000,
+      "maximumIncomeCents": 2629999999,
+      "rateBasisPoints": 1310
+    },
+    {
+      "minimumIncomeCents": 9680000000,
+      "maximumIncomeCents": 9689999999,
+      "rateBasisPoints": 4840
+    },
+    {
+      "minimumIncomeCents": 7160000000,
+      "maximumIncomeCents": 7169999999,
+      "rateBasisPoints": 3580
+    },
+    {
+      "minimumIncomeCents": 6780000000,
+      "maximumIncomeCents": 6789999999,
+      "rateBasisPoints": 3390
+    },
+    {
+      "minimumIncomeCents": 3130000000,
+      "maximumIncomeCents": 3139999999,
+      "rateBasisPoints": 1565
+    },
+    {
+      "minimumIncomeCents": 9970000000,
+      "maximumIncomeCents": 9979999999,
+      "rateBasisPoints": 4985
+    },
+    {
+      "minimumIncomeCents": 5500000000,
+      "maximumIncomeCents": 5509999999,
+      "rateBasisPoints": 2750
+    },
+    {
+      "minimumIncomeCents": 4110000000,
+      "maximumIncomeCents": 4119999999,
+      "rateBasisPoints": 2055
+    },
+    {
+      "minimumIncomeCents": 230000000,
+      "maximumIncomeCents": 239999999,
+      "rateBasisPoints": 115
+    },
+    {
+      "minimumIncomeCents": 1060000000,
+      "maximumIncomeCents": 1069999999,
+      "rateBasisPoints": 530
+    },
+    {
+      "minimumIncomeCents": 9070000000,
+      "maximumIncomeCents": 9079999999,
+      "rateBasisPoints": 4535
+    },
+    {
+      "minimumIncomeCents": 4620000000,
+      "maximumIncomeCents": 4629999999,
+      "rateBasisPoints": 2310
+    },
+    {
+      "minimumIncomeCents": 220000000,
+      "maximumIncomeCents": 229999999,
+      "rateBasisPoints": 110
+    },
+    {
+      "minimumIncomeCents": 2780000000,
+      "maximumIncomeCents": 2789999999,
+      "rateBasisPoints": 1390
+    },
+    {
+      "minimumIncomeCents": 5480000000,
+      "maximumIncomeCents": 5489999999,
+      "rateBasisPoints": 2740
+    },
+    {
+      "minimumIncomeCents": 8470000000,
+      "maximumIncomeCents": 8479999999,
+      "rateBasisPoints": 4235
+    },
+    {
+      "minimumIncomeCents": 1670000000,
+      "maximumIncomeCents": 1679999999,
+      "rateBasisPoints": 835
+    },
+    {
+      "minimumIncomeCents": 6230000000,
+      "maximumIncomeCents": 6239999999,
+      "rateBasisPoints": 3115
+    },
+    {
+      "minimumIncomeCents": 9410000000,
+      "maximumIncomeCents": 9419999999,
+      "rateBasisPoints": 4705
+    },
+    {
+      "minimumIncomeCents": 7600000000,
+      "maximumIncomeCents": 7609999999,
+      "rateBasisPoints": 3800
+    },
+    {
+      "minimumIncomeCents": 1750000000,
+      "maximumIncomeCents": 1759999999,
+      "rateBasisPoints": 875
+    },
+    {
+      "minimumIncomeCents": 9460000000,
+      "maximumIncomeCents": 9469999999,
+      "rateBasisPoints": 4730
+    },
+    {
+      "minimumIncomeCents": 9640000000,
+      "maximumIncomeCents": 9649999999,
+      "rateBasisPoints": 4820
+    },
+    {
+      "minimumIncomeCents": 7400000000,
+      "maximumIncomeCents": 7409999999,
+      "rateBasisPoints": 3700
+    },
+    {
+      "minimumIncomeCents": 1320000000,
+      "maximumIncomeCents": 1329999999,
+      "rateBasisPoints": 660
+    },
+    {
+      "minimumIncomeCents": 2020000000,
+      "maximumIncomeCents": 2029999999,
+      "rateBasisPoints": 1010
+    },
+    {
+      "minimumIncomeCents": 7190000000,
+      "maximumIncomeCents": 7199999999,
+      "rateBasisPoints": 3595
+    },
+    {
+      "minimumIncomeCents": 6420000000,
+      "maximumIncomeCents": 6429999999,
+      "rateBasisPoints": 3210
+    },
+    {
+      "minimumIncomeCents": 4430000000,
+      "maximumIncomeCents": 4439999999,
+      "rateBasisPoints": 2215
+    },
+    {
+      "minimumIncomeCents": 5350000000,
+      "maximumIncomeCents": 5359999999,
+      "rateBasisPoints": 2675
+    },
+    {
+      "minimumIncomeCents": 2490000000,
+      "maximumIncomeCents": 2499999999,
+      "rateBasisPoints": 1245
+    },
+    {
+      "minimumIncomeCents": 4550000000,
+      "maximumIncomeCents": 4559999999,
+      "rateBasisPoints": 2275
+    },
+    {
+      "minimumIncomeCents": 960000000,
+      "maximumIncomeCents": 969999999,
+      "rateBasisPoints": 480
+    },
+    {
+      "minimumIncomeCents": 9950000000,
+      "maximumIncomeCents": 9959999999,
+      "rateBasisPoints": 4975
+    },
+    {
+      "minimumIncomeCents": 7660000000,
+      "maximumIncomeCents": 7669999999,
+      "rateBasisPoints": 3830
+    },
+    {
+      "minimumIncomeCents": 2100000000,
+      "maximumIncomeCents": 2109999999,
+      "rateBasisPoints": 1050
+    },
+    {
+      "minimumIncomeCents": 1400000000,
+      "maximumIncomeCents": 1409999999,
+      "rateBasisPoints": 700
+    },
+    {
+      "minimumIncomeCents": 7280000000,
+      "maximumIncomeCents": 7289999999,
+      "rateBasisPoints": 3640
+    },
+    {
+      "minimumIncomeCents": 6990000000,
+      "maximumIncomeCents": 6999999999,
+      "rateBasisPoints": 3495
+    },
+    {
+      "minimumIncomeCents": 8840000000,
+      "maximumIncomeCents": 8849999999,
+      "rateBasisPoints": 4420
+    },
+    {
+      "minimumIncomeCents": 3720000000,
+      "maximumIncomeCents": 3729999999,
+      "rateBasisPoints": 1860
+    },
+    {
+      "minimumIncomeCents": 7240000000,
+      "maximumIncomeCents": 7249999999,
+      "rateBasisPoints": 3620
+    },
+    {
+      "minimumIncomeCents": 2840000000,
+      "maximumIncomeCents": 2849999999,
+      "rateBasisPoints": 1420
+    },
+    {
+      "minimumIncomeCents": 1190000000,
+      "maximumIncomeCents": 1199999999,
+      "rateBasisPoints": 595
+    },
+    {
+      "minimumIncomeCents": 4860000000,
+      "maximumIncomeCents": 4869999999,
+      "rateBasisPoints": 2430
+    },
+    {
+      "minimumIncomeCents": 5920000000,
+      "maximumIncomeCents": 5929999999,
+      "rateBasisPoints": 2960
+    },
+    {
+      "minimumIncomeCents": 3560000000,
+      "maximumIncomeCents": 3569999999,
+      "rateBasisPoints": 1780
+    },
+    {
+      "minimumIncomeCents": 7670000000,
+      "maximumIncomeCents": 7679999999,
+      "rateBasisPoints": 3835
+    },
+    {
+      "minimumIncomeCents": 9180000000,
+      "maximumIncomeCents": 9189999999,
+      "rateBasisPoints": 4590
+    },
+    {
+      "minimumIncomeCents": 6920000000,
+      "maximumIncomeCents": 6929999999,
+      "rateBasisPoints": 3460
+    },
+    {
+      "minimumIncomeCents": 7140000000,
+      "maximumIncomeCents": 7149999999,
+      "rateBasisPoints": 3570
+    },
+    {
+      "minimumIncomeCents": 6390000000,
+      "maximumIncomeCents": 6399999999,
+      "rateBasisPoints": 3195
+    },
+    {
+      "minimumIncomeCents": 5270000000,
+      "maximumIncomeCents": 5279999999,
+      "rateBasisPoints": 2635
+    },
+    {
+      "minimumIncomeCents": 4480000000,
+      "maximumIncomeCents": 4489999999,
+      "rateBasisPoints": 2240
+    },
+    {
+      "minimumIncomeCents": 1610000000,
+      "maximumIncomeCents": 1619999999,
+      "rateBasisPoints": 805
+    },
+    {
+      "minimumIncomeCents": 1210000000,
+      "maximumIncomeCents": 1219999999,
+      "rateBasisPoints": 605
+    },
+    {
+      "minimumIncomeCents": 5450000000,
+      "maximumIncomeCents": 5459999999,
+      "rateBasisPoints": 2725
+    },
+    {
+      "minimumIncomeCents": 9740000000,
+      "maximumIncomeCents": 9749999999,
+      "rateBasisPoints": 4870
+    },
+    {
+      "minimumIncomeCents": 9100000000,
+      "maximumIncomeCents": 9109999999,
+      "rateBasisPoints": 4550
+    },
+    {
+      "minimumIncomeCents": 2380000000,
+      "maximumIncomeCents": 2389999999,
+      "rateBasisPoints": 1190
+    },
+    {
+      "minimumIncomeCents": 9790000000,
+      "maximumIncomeCents": 9799999999,
+      "rateBasisPoints": 4895
+    },
+    {
+      "minimumIncomeCents": 9300000000,
+      "maximumIncomeCents": 9309999999,
+      "rateBasisPoints": 4650
+    },
+    {
+      "minimumIncomeCents": 1350000000,
+      "maximumIncomeCents": 1359999999,
+      "rateBasisPoints": 675
+    },
+    {
+      "minimumIncomeCents": 7480000000,
+      "maximumIncomeCents": 7489999999,
+      "rateBasisPoints": 3740
+    },
+    {
+      "minimumIncomeCents": 4000000000,
+      "maximumIncomeCents": 4009999999,
+      "rateBasisPoints": 2000
+    },
+    {
+      "minimumIncomeCents": 1560000000,
+      "maximumIncomeCents": 1569999999,
+      "rateBasisPoints": 780
+    },
+    {
+      "minimumIncomeCents": 1990000000,
+      "maximumIncomeCents": 1999999999,
+      "rateBasisPoints": 995
+    },
+    {
+      "minimumIncomeCents": 6160000000,
+      "maximumIncomeCents": 6169999999,
+      "rateBasisPoints": 3080
+    },
+    {
+      "minimumIncomeCents": 870000000,
+      "maximumIncomeCents": 879999999,
+      "rateBasisPoints": 435
+    },
+    {
+      "minimumIncomeCents": 1370000000,
+      "maximumIncomeCents": 1379999999,
+      "rateBasisPoints": 685
+    },
+    {
+      "minimumIncomeCents": 3270000000,
+      "maximumIncomeCents": 3279999999,
+      "rateBasisPoints": 1635
+    },
+    {
+      "minimumIncomeCents": 5000000000,
+      "maximumIncomeCents": 5009999999,
+      "rateBasisPoints": 2500
+    },
+    {
+      "minimumIncomeCents": 6980000000,
+      "maximumIncomeCents": 6989999999,
+      "rateBasisPoints": 3490
+    },
+    {
+      "minimumIncomeCents": 8830000000,
+      "maximumIncomeCents": 8839999999,
+      "rateBasisPoints": 4415
+    },
+    {
+      "minimumIncomeCents": 9600000000,
+      "maximumIncomeCents": 9609999999,
+      "rateBasisPoints": 4800
+    },
+    {
+      "minimumIncomeCents": 690000000,
+      "maximumIncomeCents": 699999999,
+      "rateBasisPoints": 345
+    },
+    {
+      "minimumIncomeCents": 130000000,
+      "maximumIncomeCents": 139999999,
+      "rateBasisPoints": 65
+    },
+    {
+      "minimumIncomeCents": 9450000000,
+      "maximumIncomeCents": 9459999999,
+      "rateBasisPoints": 4725
+    },
+    {
+      "minimumIncomeCents": 1100000000,
+      "maximumIncomeCents": 1109999999,
+      "rateBasisPoints": 550
+    },
+    {
+      "minimumIncomeCents": 1290000000,
+      "maximumIncomeCents": 1299999999,
+      "rateBasisPoints": 645
+    },
+    {
+      "minimumIncomeCents": 4400000000,
+      "maximumIncomeCents": 4409999999,
+      "rateBasisPoints": 2200
+    },
+    {
+      "minimumIncomeCents": 590000000,
+      "maximumIncomeCents": 599999999,
+      "rateBasisPoints": 295
+    },
+    {
+      "minimumIncomeCents": 2240000000,
+      "maximumIncomeCents": 2249999999,
+      "rateBasisPoints": 1120
+    },
+    {
+      "minimumIncomeCents": 9770000000,
+      "maximumIncomeCents": 9779999999,
+      "rateBasisPoints": 4885
+    },
+    {
+      "minimumIncomeCents": 2320000000,
+      "maximumIncomeCents": 2329999999,
+      "rateBasisPoints": 1160
+    },
+    {
+      "minimumIncomeCents": 5990000000,
+      "maximumIncomeCents": 5999999999,
+      "rateBasisPoints": 2995
+    },
+    {
+      "minimumIncomeCents": 4780000000,
+      "maximumIncomeCents": 4789999999,
+      "rateBasisPoints": 2390
+    },
+    {
+      "minimumIncomeCents": 8350000000,
+      "maximumIncomeCents": 8359999999,
+      "rateBasisPoints": 4175
+    },
+    {
+      "minimumIncomeCents": 1130000000,
+      "maximumIncomeCents": 1139999999,
+      "rateBasisPoints": 565
+    },
+    {
+      "minimumIncomeCents": 2600000000,
+      "maximumIncomeCents": 2609999999,
+      "rateBasisPoints": 1300
+    },
+    {
+      "minimumIncomeCents": 1620000000,
+      "maximumIncomeCents": 1629999999,
+      "rateBasisPoints": 810
+    },
+    {
+      "minimumIncomeCents": 3770000000,
+      "maximumIncomeCents": 3779999999,
+      "rateBasisPoints": 1885
+    },
+    {
+      "minimumIncomeCents": 8610000000,
+      "maximumIncomeCents": 8619999999,
+      "rateBasisPoints": 4305
+    },
+    {
+      "minimumIncomeCents": 7270000000,
+      "maximumIncomeCents": 7279999999,
+      "rateBasisPoints": 3635
+    },
+    {
+      "minimumIncomeCents": 240000000,
+      "maximumIncomeCents": 249999999,
+      "rateBasisPoints": 120
+    },
+    {
+      "minimumIncomeCents": 2270000000,
+      "maximumIncomeCents": 2279999999,
+      "rateBasisPoints": 1135
+    },
+    {
+      "minimumIncomeCents": 7760000000,
+      "maximumIncomeCents": 7769999999,
+      "rateBasisPoints": 3880
+    },
+    {
+      "minimumIncomeCents": 1790000000,
+      "maximumIncomeCents": 1799999999,
+      "rateBasisPoints": 895
+    },
+    {
+      "minimumIncomeCents": 4980000000,
+      "maximumIncomeCents": 4989999999,
+      "rateBasisPoints": 2490
+    },
+    {
+      "minimumIncomeCents": 1270000000,
+      "maximumIncomeCents": 1279999999,
+      "rateBasisPoints": 635
+    },
+    {
+      "minimumIncomeCents": 7610000000,
+      "maximumIncomeCents": 7619999999,
+      "rateBasisPoints": 3805
+    },
+    {
+      "minimumIncomeCents": 3830000000,
+      "maximumIncomeCents": 3839999999,
+      "rateBasisPoints": 1915
+    },
+    {
+      "minimumIncomeCents": 3530000000,
+      "maximumIncomeCents": 3539999999,
+      "rateBasisPoints": 1765
+    },
+    {
+      "minimumIncomeCents": 3800000000,
+      "maximumIncomeCents": 3809999999,
+      "rateBasisPoints": 1900
+    },
+    {
+      "minimumIncomeCents": 2680000000,
+      "maximumIncomeCents": 2689999999,
+      "rateBasisPoints": 1340
+    },
+    {
+      "minimumIncomeCents": 5330000000,
+      "maximumIncomeCents": 5339999999,
+      "rateBasisPoints": 2665
+    },
+    {
+      "minimumIncomeCents": 7700000000,
+      "maximumIncomeCents": 7709999999,
+      "rateBasisPoints": 3850
+    },
+    {
+      "minimumIncomeCents": 3100000000,
+      "maximumIncomeCents": 3109999999,
+      "rateBasisPoints": 1550
+    },
+    {
+      "minimumIncomeCents": 910000000,
+      "maximumIncomeCents": 919999999,
+      "rateBasisPoints": 455
+    },
+    {
+      "minimumIncomeCents": 2910000000,
+      "maximumIncomeCents": 2919999999,
+      "rateBasisPoints": 1455
+    },
+    {
+      "minimumIncomeCents": 8260000000,
+      "maximumIncomeCents": 8269999999,
+      "rateBasisPoints": 4130
+    },
+    {
+      "minimumIncomeCents": 6180000000,
+      "maximumIncomeCents": 6189999999,
+      "rateBasisPoints": 3090
+    },
+    {
+      "minimumIncomeCents": 7950000000,
+      "maximumIncomeCents": 7959999999,
+      "rateBasisPoints": 3975
+    },
+    {
+      "minimumIncomeCents": 8530000000,
+      "maximumIncomeCents": 8539999999,
+      "rateBasisPoints": 4265
+    },
+    {
+      "minimumIncomeCents": 3150000000,
+      "maximumIncomeCents": 3159999999,
+      "rateBasisPoints": 1575
+    },
+    {
+      "minimumIncomeCents": 9260000000,
+      "maximumIncomeCents": 9269999999,
+      "rateBasisPoints": 4630
+    },
+    {
+      "minimumIncomeCents": 7130000000,
+      "maximumIncomeCents": 7139999999,
+      "rateBasisPoints": 3565
+    },
+    {
+      "minimumIncomeCents": 5420000000,
+      "maximumIncomeCents": 5429999999,
+      "rateBasisPoints": 2710
+    },
+    {
+      "minimumIncomeCents": 6960000000,
+      "maximumIncomeCents": 6969999999,
+      "rateBasisPoints": 3480
+    },
+    {
+      "minimumIncomeCents": 2460000000,
+      "maximumIncomeCents": 2469999999,
+      "rateBasisPoints": 1230
+    },
+    {
+      "minimumIncomeCents": 4090000000,
+      "maximumIncomeCents": 4099999999,
+      "rateBasisPoints": 2045
+    },
+    {
+      "minimumIncomeCents": 7630000000,
+      "maximumIncomeCents": 7639999999,
+      "rateBasisPoints": 3815
+    },
+    {
+      "minimumIncomeCents": 9320000000,
+      "maximumIncomeCents": 9329999999,
+      "rateBasisPoints": 4660
+    },
+    {
+      "minimumIncomeCents": 4320000000,
+      "maximumIncomeCents": 4329999999,
+      "rateBasisPoints": 2160
+    },
+    {
+      "minimumIncomeCents": 5210000000,
+      "maximumIncomeCents": 5219999999,
+      "rateBasisPoints": 2605
+    },
+    {
+      "minimumIncomeCents": 3190000000,
+      "maximumIncomeCents": 3199999999,
+      "rateBasisPoints": 1595
+    },
+    {
+      "minimumIncomeCents": 7350000000,
+      "maximumIncomeCents": 7359999999,
+      "rateBasisPoints": 3675
+    },
+    {
+      "minimumIncomeCents": 6590000000,
+      "maximumIncomeCents": 6599999999,
+      "rateBasisPoints": 3295
+    },
+    {
+      "minimumIncomeCents": 3850000000,
+      "maximumIncomeCents": 3859999999,
+      "rateBasisPoints": 1925
+    },
+    {
+      "minimumIncomeCents": 6650000000,
+      "maximumIncomeCents": 6659999999,
+      "rateBasisPoints": 3325
+    },
+    {
+      "minimumIncomeCents": 7170000000,
+      "maximumIncomeCents": 7179999999,
+      "rateBasisPoints": 3585
+    },
+    {
+      "minimumIncomeCents": 9540000000,
+      "maximumIncomeCents": 9549999999,
+      "rateBasisPoints": 4770
+    },
+    {
+      "minimumIncomeCents": 2980000000,
+      "maximumIncomeCents": 2989999999,
+      "rateBasisPoints": 1490
+    },
+    {
+      "minimumIncomeCents": 6850000000,
+      "maximumIncomeCents": 6859999999,
+      "rateBasisPoints": 3425
+    },
+    {
+      "minimumIncomeCents": 2900000000,
+      "maximumIncomeCents": 2909999999,
+      "rateBasisPoints": 1450
+    },
+    {
+      "minimumIncomeCents": 7230000000,
+      "maximumIncomeCents": 7239999999,
+      "rateBasisPoints": 3615
+    },
+    {
+      "minimumIncomeCents": 4250000000,
+      "maximumIncomeCents": 4259999999,
+      "rateBasisPoints": 2125
+    },
+    {
+      "minimumIncomeCents": 6770000000,
+      "maximumIncomeCents": 6779999999,
+      "rateBasisPoints": 3385
+    },
+    {
+      "minimumIncomeCents": 9120000000,
+      "maximumIncomeCents": 9129999999,
+      "rateBasisPoints": 4560
+    },
+    {
+      "minimumIncomeCents": 6040000000,
+      "maximumIncomeCents": 6049999999,
+      "rateBasisPoints": 3020
+    },
+    {
+      "minimumIncomeCents": 7030000000,
+      "maximumIncomeCents": 7039999999,
+      "rateBasisPoints": 3515
+    },
+    {
+      "minimumIncomeCents": 6190000000,
+      "maximumIncomeCents": 6199999999,
+      "rateBasisPoints": 3095
+    },
+    {
+      "minimumIncomeCents": 8290000000,
+      "maximumIncomeCents": 8299999999,
+      "rateBasisPoints": 4145
+    },
+    {
+      "minimumIncomeCents": 700000000,
+      "maximumIncomeCents": 709999999,
+      "rateBasisPoints": 350
+    },
+    {
+      "minimumIncomeCents": 7220000000,
+      "maximumIncomeCents": 7229999999,
+      "rateBasisPoints": 3610
+    },
+    {
+      "minimumIncomeCents": 4190000000,
+      "maximumIncomeCents": 4199999999,
+      "rateBasisPoints": 2095
+    },
+    {
+      "minimumIncomeCents": 1120000000,
+      "maximumIncomeCents": 1129999999,
+      "rateBasisPoints": 560
+    },
+    {
+      "minimumIncomeCents": 6450000000,
+      "maximumIncomeCents": 6459999999,
+      "rateBasisPoints": 3225
+    },
+    {
+      "minimumIncomeCents": 760000000,
+      "maximumIncomeCents": 769999999,
+      "rateBasisPoints": 380
+    },
+    {
+      "minimumIncomeCents": 600000000,
+      "maximumIncomeCents": 609999999,
+      "rateBasisPoints": 300
+    },
+    {
+      "minimumIncomeCents": 3740000000,
+      "maximumIncomeCents": 3749999999,
+      "rateBasisPoints": 1870
+    },
+    {
+      "minimumIncomeCents": 7060000000,
+      "maximumIncomeCents": 7069999999,
+      "rateBasisPoints": 3530
+    },
+    {
+      "minimumIncomeCents": 2580000000,
+      "maximumIncomeCents": 2589999999,
+      "rateBasisPoints": 1290
+    },
+    {
+      "minimumIncomeCents": 1340000000,
+      "maximumIncomeCents": 1349999999,
+      "rateBasisPoints": 670
+    },
+    {
+      "minimumIncomeCents": 1870000000,
+      "maximumIncomeCents": 1879999999,
+      "rateBasisPoints": 935
+    },
+    {
+      "minimumIncomeCents": 520000000,
+      "maximumIncomeCents": 529999999,
+      "rateBasisPoints": 260
+    },
+    {
+      "minimumIncomeCents": 7880000000,
+      "maximumIncomeCents": 7889999999,
+      "rateBasisPoints": 3940
+    },
+    {
+      "minimumIncomeCents": 4350000000,
+      "maximumIncomeCents": 4359999999,
+      "rateBasisPoints": 2175
+    },
+    {
+      "minimumIncomeCents": 9210000000,
+      "maximumIncomeCents": 9219999999,
+      "rateBasisPoints": 4605
+    },
+    {
+      "minimumIncomeCents": 1900000000,
+      "maximumIncomeCents": 1909999999,
+      "rateBasisPoints": 950
+    },
+    {
+      "minimumIncomeCents": 6030000000,
+      "maximumIncomeCents": 6039999999,
+      "rateBasisPoints": 3015
+    },
+    {
+      "minimumIncomeCents": 3500000000,
+      "maximumIncomeCents": 3509999999,
+      "rateBasisPoints": 1750
+    },
+    {
+      "minimumIncomeCents": 4470000000,
+      "maximumIncomeCents": 4479999999,
+      "rateBasisPoints": 2235
+    },
+    {
+      "minimumIncomeCents": 8020000000,
+      "maximumIncomeCents": 8029999999,
+      "rateBasisPoints": 4010
+    },
+    {
+      "minimumIncomeCents": 3960000000,
+      "maximumIncomeCents": 3969999999,
+      "rateBasisPoints": 1980
+    },
+    {
+      "minimumIncomeCents": 4380000000,
+      "maximumIncomeCents": 4389999999,
+      "rateBasisPoints": 2190
+    },
+    {
+      "minimumIncomeCents": 5600000000,
+      "maximumIncomeCents": 5609999999,
+      "rateBasisPoints": 2800
+    },
+    {
+      "minimumIncomeCents": 5800000000,
+      "maximumIncomeCents": 5809999999,
+      "rateBasisPoints": 2900
+    },
+    {
+      "minimumIncomeCents": 7370000000,
+      "maximumIncomeCents": 7379999999,
+      "rateBasisPoints": 3685
+    },
+    {
+      "minimumIncomeCents": 2710000000,
+      "maximumIncomeCents": 2719999999,
+      "rateBasisPoints": 1355
+    },
+    {
+      "minimumIncomeCents": 2480000000,
+      "maximumIncomeCents": 2489999999,
+      "rateBasisPoints": 1240
+    },
+    {
+      "minimumIncomeCents": 640000000,
+      "maximumIncomeCents": 649999999,
+      "rateBasisPoints": 320
+    },
+    {
+      "minimumIncomeCents": 9240000000,
+      "maximumIncomeCents": 9249999999,
+      "rateBasisPoints": 4620
+    },
+    {
+      "minimumIncomeCents": 6900000000,
+      "maximumIncomeCents": 6909999999,
+      "rateBasisPoints": 3450
+    },
+    {
+      "minimumIncomeCents": 3910000000,
+      "maximumIncomeCents": 3919999999,
+      "rateBasisPoints": 1955
+    },
+    {
+      "minimumIncomeCents": 6500000000,
+      "maximumIncomeCents": 6509999999,
+      "rateBasisPoints": 3250
+    },
+    {
+      "minimumIncomeCents": 5510000000,
+      "maximumIncomeCents": 5519999999,
+      "rateBasisPoints": 2755
+    },
+    {
+      "minimumIncomeCents": 9190000000,
+      "maximumIncomeCents": 9199999999,
+      "rateBasisPoints": 4595
+    },
+    {
+      "minimumIncomeCents": 3300000000,
+      "maximumIncomeCents": 3309999999,
+      "rateBasisPoints": 1650
+    },
+    {
+      "minimumIncomeCents": 3670000000,
+      "maximumIncomeCents": 3679999999,
+      "rateBasisPoints": 1835
+    },
+    {
+      "minimumIncomeCents": 6550000000,
+      "maximumIncomeCents": 6559999999,
+      "rateBasisPoints": 3275
+    },
+    {
+      "minimumIncomeCents": 9010000000,
+      "maximumIncomeCents": 9019999999,
+      "rateBasisPoints": 4505
+    },
+    {
+      "minimumIncomeCents": 7340000000,
+      "maximumIncomeCents": 7349999999,
+      "rateBasisPoints": 3670
+    },
+    {
+      "minimumIncomeCents": 5070000000,
+      "maximumIncomeCents": 5079999999,
+      "rateBasisPoints": 2535
+    },
+    {
+      "minimumIncomeCents": 8160000000,
+      "maximumIncomeCents": 8169999999,
+      "rateBasisPoints": 4080
+    },
+    {
+      "minimumIncomeCents": 5030000000,
+      "maximumIncomeCents": 5039999999,
+      "rateBasisPoints": 2515
+    },
+    {
+      "minimumIncomeCents": 1180000000,
+      "maximumIncomeCents": 1189999999,
+      "rateBasisPoints": 590
+    },
+    {
+      "minimumIncomeCents": 5640000000,
+      "maximumIncomeCents": 5649999999,
+      "rateBasisPoints": 2820
+    },
+    {
+      "minimumIncomeCents": 2650000000,
+      "maximumIncomeCents": 2659999999,
+      "rateBasisPoints": 1325
+    },
+    {
+      "minimumIncomeCents": 4130000000,
+      "maximumIncomeCents": 4139999999,
+      "rateBasisPoints": 2065
+    },
+    {
+      "minimumIncomeCents": 9370000000,
+      "maximumIncomeCents": 9379999999,
+      "rateBasisPoints": 4685
+    },
+    {
+      "minimumIncomeCents": 6130000000,
+      "maximumIncomeCents": 6139999999,
+      "rateBasisPoints": 3065
+    },
+    {
+      "minimumIncomeCents": 1960000000,
+      "maximumIncomeCents": 1969999999,
+      "rateBasisPoints": 980
+    },
+    {
+      "minimumIncomeCents": 2150000000,
+      "maximumIncomeCents": 2159999999,
+      "rateBasisPoints": 1075
+    },
+    {
+      "minimumIncomeCents": 5960000000,
+      "maximumIncomeCents": 5969999999,
+      "rateBasisPoints": 2980
+    },
+    {
+      "minimumIncomeCents": 7430000000,
+      "maximumIncomeCents": 7439999999,
+      "rateBasisPoints": 3715
+    },
+    {
+      "minimumIncomeCents": 3780000000,
+      "maximumIncomeCents": 3789999999,
+      "rateBasisPoints": 1890
+    },
+    {
+      "minimumIncomeCents": 8380000000,
+      "maximumIncomeCents": 8389999999,
+      "rateBasisPoints": 4190
+    },
+    {
+      "minimumIncomeCents": 9700000000,
+      "maximumIncomeCents": 9709999999,
+      "rateBasisPoints": 4850
+    },
+    {
+      "minimumIncomeCents": 6400000000,
+      "maximumIncomeCents": 6409999999,
+      "rateBasisPoints": 3200
+    },
+    {
+      "minimumIncomeCents": 9650000000,
+      "maximumIncomeCents": 9659999999,
+      "rateBasisPoints": 4825
+    },
+    {
+      "minimumIncomeCents": 6940000000,
+      "maximumIncomeCents": 6949999999,
+      "rateBasisPoints": 3470
+    },
+    {
+      "minimumIncomeCents": 2850000000,
+      "maximumIncomeCents": 2859999999,
+      "rateBasisPoints": 1425
+    },
+    {
+      "minimumIncomeCents": 8760000000,
+      "maximumIncomeCents": 8769999999,
+      "rateBasisPoints": 4380
+    },
+    {
+      "minimumIncomeCents": 6910000000,
+      "maximumIncomeCents": 6919999999,
+      "rateBasisPoints": 3455
+    },
+    {
+      "minimumIncomeCents": 3890000000,
+      "maximumIncomeCents": 3899999999,
+      "rateBasisPoints": 1945
+    },
+    {
+      "minimumIncomeCents": 9030000000,
+      "maximumIncomeCents": 9039999999,
+      "rateBasisPoints": 4515
+    },
+    {
+      "minimumIncomeCents": 9270000000,
+      "maximumIncomeCents": 9279999999,
+      "rateBasisPoints": 4635
+    },
+    {
+      "minimumIncomeCents": 5690000000,
+      "maximumIncomeCents": 5699999999,
+      "rateBasisPoints": 2845
+    },
+    {
+      "minimumIncomeCents": 4240000000,
+      "maximumIncomeCents": 4249999999,
+      "rateBasisPoints": 2120
+    },
+    {
+      "minimumIncomeCents": 7830000000,
+      "maximumIncomeCents": 7839999999,
+      "rateBasisPoints": 3915
+    },
+    {
+      "minimumIncomeCents": 8040000000,
+      "maximumIncomeCents": 8049999999,
+      "rateBasisPoints": 4020
+    },
+    {
+      "minimumIncomeCents": 6520000000,
+      "maximumIncomeCents": 6529999999,
+      "rateBasisPoints": 3260
+    },
+    {
+      "minimumIncomeCents": 6640000000,
+      "maximumIncomeCents": 6649999999,
+      "rateBasisPoints": 3320
+    },
+    {
+      "minimumIncomeCents": 7890000000,
+      "maximumIncomeCents": 7899999999,
+      "rateBasisPoints": 3945
+    },
+    {
+      "minimumIncomeCents": 100000000,
+      "maximumIncomeCents": 109999999,
+      "rateBasisPoints": 50
+    },
+    {
+      "minimumIncomeCents": 7100000000,
+      "maximumIncomeCents": 7109999999,
+      "rateBasisPoints": 3550
+    },
+    {
+      "minimumIncomeCents": 8180000000,
+      "maximumIncomeCents": 8189999999,
+      "rateBasisPoints": 4090
+    },
+    {
+      "minimumIncomeCents": 7870000000,
+      "maximumIncomeCents": 7879999999,
+      "rateBasisPoints": 3935
+    },
+    {
+      "minimumIncomeCents": 2940000000,
+      "maximumIncomeCents": 2949999999,
+      "rateBasisPoints": 1470
+    },
+    {
+      "minimumIncomeCents": 8200000000,
+      "maximumIncomeCents": 8209999999,
+      "rateBasisPoints": 4100
+    },
+    {
+      "minimumIncomeCents": 7940000000,
+      "maximumIncomeCents": 7949999999,
+      "rateBasisPoints": 3970
+    },
+    {
+      "minimumIncomeCents": 9660000000,
+      "maximumIncomeCents": 9669999999,
+      "rateBasisPoints": 4830
+    },
+    {
+      "minimumIncomeCents": 7260000000,
+      "maximumIncomeCents": 7269999999,
+      "rateBasisPoints": 3630
+    },
+    {
+      "minimumIncomeCents": 9960000000,
+      "maximumIncomeCents": 9969999999,
+      "rateBasisPoints": 4980
+    },
+    {
+      "minimumIncomeCents": 8220000000,
+      "maximumIncomeCents": 8229999999,
+      "rateBasisPoints": 4110
+    },
+    {
+      "minimumIncomeCents": 8660000000,
+      "maximumIncomeCents": 8669999999,
+      "rateBasisPoints": 4330
+    },
+    {
+      "minimumIncomeCents": 7570000000,
+      "maximumIncomeCents": 7579999999,
+      "rateBasisPoints": 3785
+    },
+    {
+      "minimumIncomeCents": 6600000000,
+      "maximumIncomeCents": 6609999999,
+      "rateBasisPoints": 3300
+    },
+    {
+      "minimumIncomeCents": 2200000000,
+      "maximumIncomeCents": 2209999999,
+      "rateBasisPoints": 1100
+    },
+    {
+      "minimumIncomeCents": 1810000000,
+      "maximumIncomeCents": 1819999999,
+      "rateBasisPoints": 905
+    },
+    {
+      "minimumIncomeCents": 2830000000,
+      "maximumIncomeCents": 2839999999,
+      "rateBasisPoints": 1415
+    },
+    {
+      "minimumIncomeCents": 1260000000,
+      "maximumIncomeCents": 1269999999,
+      "rateBasisPoints": 630
+    },
+    {
+      "minimumIncomeCents": 3600000000,
+      "maximumIncomeCents": 3609999999,
+      "rateBasisPoints": 1800
+    },
+    {
+      "minimumIncomeCents": 6470000000,
+      "maximumIncomeCents": 6479999999,
+      "rateBasisPoints": 3235
+    },
+    {
+      "minimumIncomeCents": 1500000000,
+      "maximumIncomeCents": 1509999999,
+      "rateBasisPoints": 750
+    },
+    {
+      "minimumIncomeCents": 6530000000,
+      "maximumIncomeCents": 6539999999,
+      "rateBasisPoints": 3265
+    },
+    {
+      "minimumIncomeCents": 3550000000,
+      "maximumIncomeCents": 3559999999,
+      "rateBasisPoints": 1775
+    },
+    {
+      "minimumIncomeCents": 2510000000,
+      "maximumIncomeCents": 2519999999,
+      "rateBasisPoints": 1255
+    },
+    {
+      "minimumIncomeCents": 6090000000,
+      "maximumIncomeCents": 6099999999,
+      "rateBasisPoints": 3045
+    },
+    {
+      "minimumIncomeCents": 5400000000,
+      "maximumIncomeCents": 5409999999,
+      "rateBasisPoints": 2700
+    },
+    {
+      "minimumIncomeCents": 5810000000,
+      "maximumIncomeCents": 5819999999,
+      "rateBasisPoints": 2905
+    },
+    {
+      "minimumIncomeCents": 9020000000,
+      "maximumIncomeCents": 9029999999,
+      "rateBasisPoints": 4510
+    },
+    {
+      "minimumIncomeCents": 610000000,
+      "maximumIncomeCents": 619999999,
+      "rateBasisPoints": 305
+    },
+    {
+      "minimumIncomeCents": 6330000000,
+      "maximumIncomeCents": 6339999999,
+      "rateBasisPoints": 3165
+    },
+    {
+      "minimumIncomeCents": 1040000000,
+      "maximumIncomeCents": 1049999999,
+      "rateBasisPoints": 520
+    },
+    {
+      "minimumIncomeCents": 8490000000,
+      "maximumIncomeCents": 8499999999,
+      "rateBasisPoints": 4245
+    },
+    {
+      "minimumIncomeCents": 9150000000,
+      "maximumIncomeCents": 9159999999,
+      "rateBasisPoints": 4575
+    },
+    {
+      "minimumIncomeCents": 9440000000,
+      "maximumIncomeCents": 9449999999,
+      "rateBasisPoints": 4720
+    },
+    {
+      "minimumIncomeCents": 1330000000,
+      "maximumIncomeCents": 1339999999,
+      "rateBasisPoints": 665
+    },
+    {
+      "minimumIncomeCents": 3640000000,
+      "maximumIncomeCents": 3649999999,
+      "rateBasisPoints": 1820
+    },
+    {
+      "minimumIncomeCents": 7980000000,
+      "maximumIncomeCents": 7989999999,
+      "rateBasisPoints": 3990
+    },
+    {
+      "minimumIncomeCents": 4390000000,
+      "maximumIncomeCents": 4399999999,
+      "rateBasisPoints": 2195
+    },
+    {
+      "minimumIncomeCents": 1510000000,
+      "maximumIncomeCents": 1519999999,
+      "rateBasisPoints": 755
+    },
+    {
+      "minimumIncomeCents": 4840000000,
+      "maximumIncomeCents": 4849999999,
+      "rateBasisPoints": 2420
+    },
+    {
+      "minimumIncomeCents": 510000000,
+      "maximumIncomeCents": 519999999,
+      "rateBasisPoints": 255
+    },
+    {
+      "minimumIncomeCents": 6880000000,
+      "maximumIncomeCents": 6889999999,
+      "rateBasisPoints": 3440
+    },
+    {
+      "minimumIncomeCents": 2660000000,
+      "maximumIncomeCents": 2669999999,
+      "rateBasisPoints": 1330
+    },
+    {
+      "minimumIncomeCents": 60000000,
+      "maximumIncomeCents": 69999999,
+      "rateBasisPoints": 30
+    },
+    {
+      "minimumIncomeCents": 2570000000,
+      "maximumIncomeCents": 2579999999,
+      "rateBasisPoints": 1285
+    },
+    {
+      "minimumIncomeCents": 390000000,
+      "maximumIncomeCents": 399999999,
+      "rateBasisPoints": 195
+    },
+    {
+      "minimumIncomeCents": 3320000000,
+      "maximumIncomeCents": 3329999999,
+      "rateBasisPoints": 1660
+    },
+    {
+      "minimumIncomeCents": 1070000000,
+      "maximumIncomeCents": 1079999999,
+      "rateBasisPoints": 535
+    },
+    {
+      "minimumIncomeCents": 2030000000,
+      "maximumIncomeCents": 2039999999,
+      "rateBasisPoints": 1015
+    },
+    {
+      "minimumIncomeCents": 5620000000,
+      "maximumIncomeCents": 5629999999,
+      "rateBasisPoints": 2810
+    },
+    {
+      "minimumIncomeCents": 570000000,
+      "maximumIncomeCents": 579999999,
+      "rateBasisPoints": 285
+    },
+    {
+      "minimumIncomeCents": 3290000000,
+      "maximumIncomeCents": 3299999999,
+      "rateBasisPoints": 1645
+    },
+    {
+      "minimumIncomeCents": 8560000000,
+      "maximumIncomeCents": 8569999999,
+      "rateBasisPoints": 4280
+    },
+    {
+      "minimumIncomeCents": 3060000000,
+      "maximumIncomeCents": 3069999999,
+      "rateBasisPoints": 1530
+    },
+    {
+      "minimumIncomeCents": 7500000000,
+      "maximumIncomeCents": 7509999999,
+      "rateBasisPoints": 3750
+    },
+    {
+      "minimumIncomeCents": 8390000000,
+      "maximumIncomeCents": 8399999999,
+      "rateBasisPoints": 4195
+    },
+    {
+      "minimumIncomeCents": 3660000000,
+      "maximumIncomeCents": 3669999999,
+      "rateBasisPoints": 1830
+    },
+    {
+      "minimumIncomeCents": 4900000000,
+      "maximumIncomeCents": 4909999999,
+      "rateBasisPoints": 2450
+    },
+    {
+      "minimumIncomeCents": 6570000000,
+      "maximumIncomeCents": 6579999999,
+      "rateBasisPoints": 3285
+    },
+    {
+      "minimumIncomeCents": 3310000000,
+      "maximumIncomeCents": 3319999999,
+      "rateBasisPoints": 1655
+    },
+    {
+      "minimumIncomeCents": 1380000000,
+      "maximumIncomeCents": 1389999999,
+      "rateBasisPoints": 690
+    },
+    {
+      "minimumIncomeCents": 5060000000,
+      "maximumIncomeCents": 5069999999,
+      "rateBasisPoints": 2530
+    },
+    {
+      "minimumIncomeCents": 7750000000,
+      "maximumIncomeCents": 7759999999,
+      "rateBasisPoints": 3875
+    },
+    {
+      "minimumIncomeCents": 4890000000,
+      "maximumIncomeCents": 4899999999,
+      "rateBasisPoints": 2445
+    },
+    {
+      "minimumIncomeCents": 8140000000,
+      "maximumIncomeCents": 8149999999,
+      "rateBasisPoints": 4070
+    },
+    {
+      "minimumIncomeCents": 2210000000,
+      "maximumIncomeCents": 2219999999,
+      "rateBasisPoints": 1105
+    },
+    {
+      "minimumIncomeCents": 2790000000,
+      "maximumIncomeCents": 2799999999,
+      "rateBasisPoints": 1395
+    },
+    {
+      "minimumIncomeCents": 5860000000,
+      "maximumIncomeCents": 5869999999,
+      "rateBasisPoints": 2930
+    },
+    {
+      "minimumIncomeCents": 3410000000,
+      "maximumIncomeCents": 3419999999,
+      "rateBasisPoints": 1705
+    },
+    {
+      "minimumIncomeCents": 8970000000,
+      "maximumIncomeCents": 8979999999,
+      "rateBasisPoints": 4485
+    },
+    {
+      "minimumIncomeCents": 8330000000,
+      "maximumIncomeCents": 8339999999,
+      "rateBasisPoints": 4165
+    },
+    {
+      "minimumIncomeCents": 6100000000,
+      "maximumIncomeCents": 6109999999,
+      "rateBasisPoints": 3050
+    },
+    {
+      "minimumIncomeCents": 4690000000,
+      "maximumIncomeCents": 4699999999,
+      "rateBasisPoints": 2345
+    },
+    {
+      "minimumIncomeCents": 970000000,
+      "maximumIncomeCents": 979999999,
+      "rateBasisPoints": 485
+    },
+    {
+      "minimumIncomeCents": 1030000000,
+      "maximumIncomeCents": 1039999999,
+      "rateBasisPoints": 515
+    },
+    {
+      "minimumIncomeCents": 3180000000,
+      "maximumIncomeCents": 3189999999,
+      "rateBasisPoints": 1590
+    },
+    {
+      "minimumIncomeCents": 1800000000,
+      "maximumIncomeCents": 1809999999,
+      "rateBasisPoints": 900
+    },
+    {
+      "minimumIncomeCents": 9390000000,
+      "maximumIncomeCents": 9399999999,
+      "rateBasisPoints": 4695
+    },
+    {
+      "minimumIncomeCents": 5750000000,
+      "maximumIncomeCents": 5759999999,
+      "rateBasisPoints": 2875
+    },
+    {
+      "minimumIncomeCents": 3730000000,
+      "maximumIncomeCents": 3739999999,
+      "rateBasisPoints": 1865
+    },
+    {
+      "minimumIncomeCents": 4920000000,
+      "maximumIncomeCents": 4929999999,
+      "rateBasisPoints": 2460
+    },
+    {
+      "minimumIncomeCents": 7860000000,
+      "maximumIncomeCents": 7869999999,
+      "rateBasisPoints": 3930
+    },
+    {
+      "minimumIncomeCents": 1080000000,
+      "maximumIncomeCents": 1089999999,
+      "rateBasisPoints": 540
+    },
+    {
+      "minimumIncomeCents": 5050000000,
+      "maximumIncomeCents": 5059999999,
+      "rateBasisPoints": 2525
+    },
+    {
+      "minimumIncomeCents": 6080000000,
+      "maximumIncomeCents": 6089999999,
+      "rateBasisPoints": 3040
+    },
+    {
+      "minimumIncomeCents": 7050000000,
+      "maximumIncomeCents": 7059999999,
+      "rateBasisPoints": 3525
+    },
+    {
+      "minimumIncomeCents": 5140000000,
+      "maximumIncomeCents": 5149999999,
+      "rateBasisPoints": 2570
+    },
+    {
+      "minimumIncomeCents": 930000000,
+      "maximumIncomeCents": 939999999,
+      "rateBasisPoints": 465
+    },
+    {
+      "minimumIncomeCents": 9730000000,
+      "maximumIncomeCents": 9739999999,
+      "rateBasisPoints": 4865
+    },
+    {
+      "minimumIncomeCents": 6800000000,
+      "maximumIncomeCents": 6809999999,
+      "rateBasisPoints": 3400
+    },
+    {
+      "minimumIncomeCents": 2360000000,
+      "maximumIncomeCents": 2369999999,
+      "rateBasisPoints": 1180
+    },
+    {
+      "minimumIncomeCents": 4870000000,
+      "maximumIncomeCents": 4879999999,
+      "rateBasisPoints": 2435
+    },
+    {
+      "minimumIncomeCents": 8440000000,
+      "maximumIncomeCents": 8449999999,
+      "rateBasisPoints": 4220
+    },
+    {
+      "minimumIncomeCents": 6830000000,
+      "maximumIncomeCents": 6839999999,
+      "rateBasisPoints": 3415
+    },
+    {
+      "minimumIncomeCents": 4570000000,
+      "maximumIncomeCents": 4579999999,
+      "rateBasisPoints": 2285
+    },
+    {
+      "minimumIncomeCents": 2220000000,
+      "maximumIncomeCents": 2229999999,
+      "rateBasisPoints": 1110
+    },
+    {
+      "minimumIncomeCents": 6220000000,
+      "maximumIncomeCents": 6229999999,
+      "rateBasisPoints": 3110
+    },
+    {
+      "minimumIncomeCents": 4670000000,
+      "maximumIncomeCents": 4679999999,
+      "rateBasisPoints": 2335
+    },
+    {
+      "minimumIncomeCents": 9980000000,
+      "maximumIncomeCents": 9989999999,
+      "rateBasisPoints": 4990
+    },
+    {
+      "minimumIncomeCents": 9040000000,
+      "maximumIncomeCents": 9049999999,
+      "rateBasisPoints": 4520
+    },
+    {
+      "minimumIncomeCents": 7010000000,
+      "maximumIncomeCents": 7019999999,
+      "rateBasisPoints": 3505
+    },
+    {
+      "minimumIncomeCents": 850000000,
+      "maximumIncomeCents": 859999999,
+      "rateBasisPoints": 425
+    },
+    {
+      "minimumIncomeCents": 8930000000,
+      "maximumIncomeCents": 8939999999,
+      "rateBasisPoints": 4465
+    },
+    {
+      "minimumIncomeCents": 3260000000,
+      "maximumIncomeCents": 3269999999,
+      "rateBasisPoints": 1630
+    },
+    {
+      "minimumIncomeCents": 4500000000,
+      "maximumIncomeCents": 4509999999,
+      "rateBasisPoints": 2250
+    },
+    {
+      "minimumIncomeCents": 9050000000,
+      "maximumIncomeCents": 9059999999,
+      "rateBasisPoints": 4525
+    },
+    {
+      "minimumIncomeCents": 5890000000,
+      "maximumIncomeCents": 5899999999,
+      "rateBasisPoints": 2945
+    },
+    {
+      "minimumIncomeCents": 5580000000,
+      "maximumIncomeCents": 5589999999,
+      "rateBasisPoints": 2790
+    },
+    {
+      "minimumIncomeCents": 9620000000,
+      "maximumIncomeCents": 9629999999,
+      "rateBasisPoints": 4810
+    },
+    {
+      "minimumIncomeCents": 5170000000,
+      "maximumIncomeCents": 5179999999,
+      "rateBasisPoints": 2585
+    },
+    {
+      "minimumIncomeCents": 2670000000,
+      "maximumIncomeCents": 2679999999,
+      "rateBasisPoints": 1335
+    },
+    {
+      "minimumIncomeCents": 9930000000,
+      "maximumIncomeCents": 9939999999,
+      "rateBasisPoints": 4965
+    },
+    {
+      "minimumIncomeCents": 4970000000,
+      "maximumIncomeCents": 4979999999,
+      "rateBasisPoints": 2485
+    },
+    {
+      "minimumIncomeCents": 4440000000,
+      "maximumIncomeCents": 4449999999,
+      "rateBasisPoints": 2220
+    },
+    {
+      "minimumIncomeCents": 280000000,
+      "maximumIncomeCents": 289999999,
+      "rateBasisPoints": 140
+    },
+    {
+      "minimumIncomeCents": 8090000000,
+      "maximumIncomeCents": 8099999999,
+      "rateBasisPoints": 4045
+    },
+    {
+      "minimumIncomeCents": 860000000,
+      "maximumIncomeCents": 869999999,
+      "rateBasisPoints": 430
+    },
+    {
+      "minimumIncomeCents": 4280000000,
+      "maximumIncomeCents": 4289999999,
+      "rateBasisPoints": 2140
+    },
+    {
+      "minimumIncomeCents": 4990000000,
+      "maximumIncomeCents": 4999999999,
+      "rateBasisPoints": 2495
+    },
+    {
+      "minimumIncomeCents": 6120000000,
+      "maximumIncomeCents": 6129999999,
+      "rateBasisPoints": 3060
+    },
+    {
+      "minimumIncomeCents": 8980000000,
+      "maximumIncomeCents": 8989999999,
+      "rateBasisPoints": 4490
+    },
+    {
+      "minimumIncomeCents": 7410000000,
+      "maximumIncomeCents": 7419999999,
+      "rateBasisPoints": 3705
+    },
+    {
+      "minimumIncomeCents": 5850000000,
+      "maximumIncomeCents": 5859999999,
+      "rateBasisPoints": 2925
+    },
+    {
+      "minimumIncomeCents": 9470000000,
+      "maximumIncomeCents": 9479999999,
+      "rateBasisPoints": 4735
+    },
+    {
+      "minimumIncomeCents": 8130000000,
+      "maximumIncomeCents": 8139999999,
+      "rateBasisPoints": 4065
+    },
+    {
+      "minimumIncomeCents": 6310000000,
+      "maximumIncomeCents": 6319999999,
+      "rateBasisPoints": 3155
+    },
+    {
+      "minimumIncomeCents": 8400000000,
+      "maximumIncomeCents": 8409999999,
+      "rateBasisPoints": 4200
+    },
+    {
+      "minimumIncomeCents": 7360000000,
+      "maximumIncomeCents": 7369999999,
+      "rateBasisPoints": 3680
+    },
+    {
+      "minimumIncomeCents": 4520000000,
+      "maximumIncomeCents": 4529999999,
+      "rateBasisPoints": 2260
+    },
+    {
+      "minimumIncomeCents": 6760000000,
+      "maximumIncomeCents": 6769999999,
+      "rateBasisPoints": 3380
+    },
+    {
+      "minimumIncomeCents": 9430000000,
+      "maximumIncomeCents": 9439999999,
+      "rateBasisPoints": 4715
+    },
+    {
+      "minimumIncomeCents": 8150000000,
+      "maximumIncomeCents": 8159999999,
+      "rateBasisPoints": 4075
+    },
+    {
+      "minimumIncomeCents": 3980000000,
+      "maximumIncomeCents": 3989999999,
+      "rateBasisPoints": 1990
+    },
+    {
+      "minimumIncomeCents": 3680000000,
+      "maximumIncomeCents": 3689999999,
+      "rateBasisPoints": 1840
+    },
+    {
+      "minimumIncomeCents": 2770000000,
+      "maximumIncomeCents": 2779999999,
+      "rateBasisPoints": 1385
+    },
+    {
+      "minimumIncomeCents": 8270000000,
+      "maximumIncomeCents": 8279999999,
+      "rateBasisPoints": 4135
+    },
+    {
+      "minimumIncomeCents": 1110000000,
+      "maximumIncomeCents": 1119999999,
+      "rateBasisPoints": 555
+    },
+    {
+      "minimumIncomeCents": 8860000000,
+      "maximumIncomeCents": 8869999999,
+      "rateBasisPoints": 4430
+    },
+    {
+      "minimumIncomeCents": 9920000000,
+      "maximumIncomeCents": 9929999999,
+      "rateBasisPoints": 4960
+    },
+    {
+      "minimumIncomeCents": 8670000000,
+      "maximumIncomeCents": 8679999999,
+      "rateBasisPoints": 4335
+    },
+    {
+      "minimumIncomeCents": 8050000000,
+      "maximumIncomeCents": 8059999999,
+      "rateBasisPoints": 4025
+    },
+    {
+      "minimumIncomeCents": 830000000,
+      "maximumIncomeCents": 839999999,
+      "rateBasisPoints": 415
+    },
+    {
+      "minimumIncomeCents": 4310000000,
+      "maximumIncomeCents": 4319999999,
+      "rateBasisPoints": 2155
+    },
+    {
+      "minimumIncomeCents": 5200000000,
+      "maximumIncomeCents": 5209999999,
+      "rateBasisPoints": 2600
+    },
+    {
+      "minimumIncomeCents": 5520000000,
+      "maximumIncomeCents": 5529999999,
+      "rateBasisPoints": 2760
+    },
+    {
+      "minimumIncomeCents": 2430000000,
+      "maximumIncomeCents": 2439999999,
+      "rateBasisPoints": 1215
+    },
+    {
+      "minimumIncomeCents": 490000000,
+      "maximumIncomeCents": 499999999,
+      "rateBasisPoints": 245
+    },
+    {
+      "minimumIncomeCents": 3860000000,
+      "maximumIncomeCents": 3869999999,
+      "rateBasisPoints": 1930
+    },
+    {
+      "minimumIncomeCents": 9230000000,
+      "maximumIncomeCents": 9239999999,
+      "rateBasisPoints": 4615
+    },
+    {
+      "minimumIncomeCents": 4720000000,
+      "maximumIncomeCents": 4729999999,
+      "rateBasisPoints": 2360
+    },
+    {
+      "minimumIncomeCents": 7040000000,
+      "maximumIncomeCents": 7049999999,
+      "rateBasisPoints": 3520
+    },
+    {
+      "minimumIncomeCents": 1830000000,
+      "maximumIncomeCents": 1839999999,
+      "rateBasisPoints": 915
+    },
+    {
+      "minimumIncomeCents": 4880000000,
+      "maximumIncomeCents": 4889999999,
+      "rateBasisPoints": 2440
+    },
+    {
+      "minimumIncomeCents": 8850000000,
+      "maximumIncomeCents": 8859999999,
+      "rateBasisPoints": 4425
+    },
+    {
+      "minimumIncomeCents": 6790000000,
+      "maximumIncomeCents": 6799999999,
+      "rateBasisPoints": 3395
+    },
+    {
+      "minimumIncomeCents": 540000000,
+      "maximumIncomeCents": 549999999,
+      "rateBasisPoints": 270
+    },
+    {
+      "minimumIncomeCents": 1920000000,
+      "maximumIncomeCents": 1929999999,
+      "rateBasisPoints": 960
+    },
+    {
+      "minimumIncomeCents": 8770000000,
+      "maximumIncomeCents": 8779999999,
+      "rateBasisPoints": 4385
+    },
+    {
+      "minimumIncomeCents": 560000000,
+      "maximumIncomeCents": 569999999,
+      "rateBasisPoints": 280
+    },
+    {
+      "minimumIncomeCents": 1860000000,
+      "maximumIncomeCents": 1869999999,
+      "rateBasisPoints": 930
+    },
+    {
+      "minimumIncomeCents": 9480000000,
+      "maximumIncomeCents": 9489999999,
+      "rateBasisPoints": 4740
+    },
+    {
+      "minimumIncomeCents": 380000000,
+      "maximumIncomeCents": 389999999,
+      "rateBasisPoints": 190
+    },
+    {
+      "minimumIncomeCents": 7970000000,
+      "maximumIncomeCents": 7979999999,
+      "rateBasisPoints": 3985
+    },
+    {
+      "minimumIncomeCents": 1540000000,
+      "maximumIncomeCents": 1549999999,
+      "rateBasisPoints": 770
+    },
+    {
+      "minimumIncomeCents": 6720000000,
+      "maximumIncomeCents": 6729999999,
+      "rateBasisPoints": 3360
+    },
+    {
+      "minimumIncomeCents": 8060000000,
+      "maximumIncomeCents": 8069999999,
+      "rateBasisPoints": 4030
+    },
+    {
+      "minimumIncomeCents": 5300000000,
+      "maximumIncomeCents": 5309999999,
+      "rateBasisPoints": 2650
+    },
+    {
+      "minimumIncomeCents": 9550000000,
+      "maximumIncomeCents": 9559999999,
+      "rateBasisPoints": 4775
+    },
+    {
+      "minimumIncomeCents": 5900000000,
+      "maximumIncomeCents": 5909999999,
+      "rateBasisPoints": 2950
+    },
+    {
+      "minimumIncomeCents": 420000000,
+      "maximumIncomeCents": 429999999,
+      "rateBasisPoints": 210
+    },
+    {
+      "minimumIncomeCents": 1600000000,
+      "maximumIncomeCents": 1609999999,
+      "rateBasisPoints": 800
+    },
+    {
+      "minimumIncomeCents": 7310000000,
+      "maximumIncomeCents": 7319999999,
+      "rateBasisPoints": 3655
+    },
+    {
+      "minimumIncomeCents": 1930000000,
+      "maximumIncomeCents": 1939999999,
+      "rateBasisPoints": 965
+    },
+    {
+      "minimumIncomeCents": 4830000000,
+      "maximumIncomeCents": 4839999999,
+      "rateBasisPoints": 2415
+    },
+    {
+      "minimumIncomeCents": 8620000000,
+      "maximumIncomeCents": 8629999999,
+      "rateBasisPoints": 4310
+    },
+    {
+      "minimumIncomeCents": 2560000000,
+      "maximumIncomeCents": 2569999999,
+      "rateBasisPoints": 1280
+    },
+    {
+      "minimumIncomeCents": 4060000000,
+      "maximumIncomeCents": 4069999999,
+      "rateBasisPoints": 2030
+    },
+    {
+      "minimumIncomeCents": 2500000000,
+      "maximumIncomeCents": 2509999999,
+      "rateBasisPoints": 1250
+    },
+    {
+      "minimumIncomeCents": 2440000000,
+      "maximumIncomeCents": 2449999999,
+      "rateBasisPoints": 1220
+    },
+    {
+      "minimumIncomeCents": 4680000000,
+      "maximumIncomeCents": 4689999999,
+      "rateBasisPoints": 2340
+    },
+    {
+      "minimumIncomeCents": 9160000000,
+      "maximumIncomeCents": 9169999999,
+      "rateBasisPoints": 4580
+    },
+    {
+      "minimumIncomeCents": 4120000000,
+      "maximumIncomeCents": 4129999999,
+      "rateBasisPoints": 2060
+    },
+    {
+      "minimumIncomeCents": 9330000000,
+      "maximumIncomeCents": 9339999999,
+      "rateBasisPoints": 4665
+    },
+    {
+      "minimumIncomeCents": 9290000000,
+      "maximumIncomeCents": 9299999999,
+      "rateBasisPoints": 4645
+    },
+    {
+      "minimumIncomeCents": 3700000000,
+      "maximumIncomeCents": 3709999999,
+      "rateBasisPoints": 1850
+    },
+    {
+      "minimumIncomeCents": 4810000000,
+      "maximumIncomeCents": 4819999999,
+      "rateBasisPoints": 2405
+    },
+    {
+      "minimumIncomeCents": 2260000000,
+      "maximumIncomeCents": 2269999999,
+      "rateBasisPoints": 1130
+    },
+    {
+      "minimumIncomeCents": 2410000000,
+      "maximumIncomeCents": 2419999999,
+      "rateBasisPoints": 1205
+    },
+    {
+      "minimumIncomeCents": 4790000000,
+      "maximumIncomeCents": 4799999999,
+      "rateBasisPoints": 2395
+    },
+    {
+      "minimumIncomeCents": 6610000000,
+      "maximumIncomeCents": 6619999999,
+      "rateBasisPoints": 3305
+    },
+    {
+      "minimumIncomeCents": 110000000,
+      "maximumIncomeCents": 119999999,
+      "rateBasisPoints": 55
+    },
+    {
+      "minimumIncomeCents": 5390000000,
+      "maximumIncomeCents": 5399999999,
+      "rateBasisPoints": 2695
+    },
+    {
+      "minimumIncomeCents": 3820000000,
+      "maximumIncomeCents": 3829999999,
+      "rateBasisPoints": 1910
+    },
+    {
+      "minimumIncomeCents": 6010000000,
+      "maximumIncomeCents": 6019999999,
+      "rateBasisPoints": 3005
+    },
+    {
+      "minimumIncomeCents": 8340000000,
+      "maximumIncomeCents": 8349999999,
+      "rateBasisPoints": 4170
+    },
+    {
+      "minimumIncomeCents": 3880000000,
+      "maximumIncomeCents": 3889999999,
+      "rateBasisPoints": 1940
+    },
+    {
+      "minimumIncomeCents": 7550000000,
+      "maximumIncomeCents": 7559999999,
+      "rateBasisPoints": 3775
+    },
+    {
+      "minimumIncomeCents": 4800000000,
+      "maximumIncomeCents": 4809999999,
+      "rateBasisPoints": 2400
+    },
+    {
+      "minimumIncomeCents": 7150000000,
+      "maximumIncomeCents": 7159999999,
+      "rateBasisPoints": 3575
+    },
+    {
+      "minimumIncomeCents": 8280000000,
+      "maximumIncomeCents": 8289999999,
+      "rateBasisPoints": 4140
+    },
+    {
+      "minimumIncomeCents": 4410000000,
+      "maximumIncomeCents": 4419999999,
+      "rateBasisPoints": 2205
+    },
+    {
+      "minimumIncomeCents": 1160000000,
+      "maximumIncomeCents": 1169999999,
+      "rateBasisPoints": 580
+    },
+    {
+      "minimumIncomeCents": 9520000000,
+      "maximumIncomeCents": 9529999999,
+      "rateBasisPoints": 4760
+    },
+    {
+      "minimumIncomeCents": 3380000000,
+      "maximumIncomeCents": 3389999999,
+      "rateBasisPoints": 1690
+    },
+    {
+      "minimumIncomeCents": 7820000000,
+      "maximumIncomeCents": 7829999999,
+      "rateBasisPoints": 3910
+    },
+    {
+      "minimumIncomeCents": 4230000000,
+      "maximumIncomeCents": 4239999999,
+      "rateBasisPoints": 2115
+    },
+    {
+      "minimumIncomeCents": 670000000,
+      "maximumIncomeCents": 679999999,
+      "rateBasisPoints": 335
+    },
+    {
+      "minimumIncomeCents": 1630000000,
+      "maximumIncomeCents": 1639999999,
+      "rateBasisPoints": 815
+    },
+    {
+      "minimumIncomeCents": 250000000,
+      "maximumIncomeCents": 259999999,
+      "rateBasisPoints": 125
+    },
+    {
+      "minimumIncomeCents": 7650000000,
+      "maximumIncomeCents": 7659999999,
+      "rateBasisPoints": 3825
+    },
+    {
+      "minimumIncomeCents": 4770000000,
+      "maximumIncomeCents": 4779999999,
+      "rateBasisPoints": 2385
+    },
+    {
+      "minimumIncomeCents": 9250000000,
+      "maximumIncomeCents": 9259999999,
+      "rateBasisPoints": 4625
+    },
+    {
+      "minimumIncomeCents": 180000000,
+      "maximumIncomeCents": 189999999,
+      "rateBasisPoints": 90
+    },
+    {
+      "minimumIncomeCents": 4160000000,
+      "maximumIncomeCents": 4169999999,
+      "rateBasisPoints": 2080
+    },
+    {
+      "minimumIncomeCents": 550000000,
+      "maximumIncomeCents": 559999999,
+      "rateBasisPoints": 275
+    },
+    {
+      "minimumIncomeCents": 4760000000,
+      "maximumIncomeCents": 4769999999,
+      "rateBasisPoints": 2380
+    },
+    {
+      "minimumIncomeCents": 7120000000,
+      "maximumIncomeCents": 7129999999,
+      "rateBasisPoints": 3560
+    },
+    {
+      "minimumIncomeCents": 7990000000,
+      "maximumIncomeCents": 7999999999,
+      "rateBasisPoints": 3995
+    },
+    {
+      "minimumIncomeCents": 200000000,
+      "maximumIncomeCents": 209999999,
+      "rateBasisPoints": 100
+    },
+    {
+      "minimumIncomeCents": 7460000000,
+      "maximumIncomeCents": 7469999999,
+      "rateBasisPoints": 3730
+    },
+    {
+      "minimumIncomeCents": 4300000000,
+      "maximumIncomeCents": 4309999999,
+      "rateBasisPoints": 2150
+    },
+    {
+      "minimumIncomeCents": 3710000000,
+      "maximumIncomeCents": 3719999999,
+      "rateBasisPoints": 1855
+    },
+    {
+      "minimumIncomeCents": 460000000,
+      "maximumIncomeCents": 469999999,
+      "rateBasisPoints": 230
+    },
+    {
+      "minimumIncomeCents": 1660000000,
+      "maximumIncomeCents": 1669999999,
+      "rateBasisPoints": 830
+    },
+    {
+      "minimumIncomeCents": 3000000000,
+      "maximumIncomeCents": 3009999999,
+      "rateBasisPoints": 1500
+    },
+    {
+      "minimumIncomeCents": 4650000000,
+      "maximumIncomeCents": 4659999999,
+      "rateBasisPoints": 2325
+    },
+    {
+      "minimumIncomeCents": 4610000000,
+      "maximumIncomeCents": 4619999999,
+      "rateBasisPoints": 2305
+    },
+    {
+      "minimumIncomeCents": 4080000000,
+      "maximumIncomeCents": 4089999999,
+      "rateBasisPoints": 2040
+    },
+    {
+      "minimumIncomeCents": 6740000000,
+      "maximumIncomeCents": 6749999999,
+      "rateBasisPoints": 3370
+    },
+    {
+      "minimumIncomeCents": 7290000000,
+      "maximumIncomeCents": 7299999999,
+      "rateBasisPoints": 3645
+    },
+    {
+      "minimumIncomeCents": 450000000,
+      "maximumIncomeCents": 459999999,
+      "rateBasisPoints": 225
+    },
+    {
+      "minimumIncomeCents": 2010000000,
+      "maximumIncomeCents": 2019999999,
+      "rateBasisPoints": 1005
+    },
+    {
+      "minimumIncomeCents": 8820000000,
+      "maximumIncomeCents": 8829999999,
+      "rateBasisPoints": 4410
+    },
+    {
+      "minimumIncomeCents": 8110000000,
+      "maximumIncomeCents": 8119999999,
+      "rateBasisPoints": 4055
+    },
+    {
+      "minimumIncomeCents": 8170000000,
+      "maximumIncomeCents": 8179999999,
+      "rateBasisPoints": 4085
+    },
+    {
+      "minimumIncomeCents": 7000000000,
+      "maximumIncomeCents": 7009999999,
+      "rateBasisPoints": 3500
+    },
+    {
+      "minimumIncomeCents": 7930000000,
+      "maximumIncomeCents": 7939999999,
+      "rateBasisPoints": 3965
+    },
+    {
+      "minimumIncomeCents": 3350000000,
+      "maximumIncomeCents": 3359999999,
+      "rateBasisPoints": 1675
+    },
+    {
+      "minimumIncomeCents": 6690000000,
+      "maximumIncomeCents": 6699999999,
+      "rateBasisPoints": 3345
+    },
+    {
+      "minimumIncomeCents": 2230000000,
+      "maximumIncomeCents": 2239999999,
+      "rateBasisPoints": 1115
+    },
+    {
+      "minimumIncomeCents": 1590000000,
+      "maximumIncomeCents": 1599999999,
+      "rateBasisPoints": 795
+    },
+    {
+      "minimumIncomeCents": 1450000000,
+      "maximumIncomeCents": 1459999999,
+      "rateBasisPoints": 725
+    },
+    {
+      "minimumIncomeCents": 1910000000,
+      "maximumIncomeCents": 1919999999,
+      "rateBasisPoints": 955
+    },
+    {
+      "minimumIncomeCents": 6210000000,
+      "maximumIncomeCents": 6219999999,
+      "rateBasisPoints": 3105
+    },
+    {
+      "minimumIncomeCents": 8880000000,
+      "maximumIncomeCents": 8889999999,
+      "rateBasisPoints": 4440
+    },
+    {
+      "minimumIncomeCents": 3630000000,
+      "maximumIncomeCents": 3639999999,
+      "rateBasisPoints": 1815
+    },
+    {
+      "minimumIncomeCents": 920000000,
+      "maximumIncomeCents": 929999999,
+      "rateBasisPoints": 460
+    },
+    {
+      "minimumIncomeCents": 6430000000,
+      "maximumIncomeCents": 6439999999,
+      "rateBasisPoints": 3215
+    },
+    {
+      "minimumIncomeCents": 3480000000,
+      "maximumIncomeCents": 3489999999,
+      "rateBasisPoints": 1740
+    },
+    {
+      "minimumIncomeCents": 880000000,
+      "maximumIncomeCents": 889999999,
+      "rateBasisPoints": 440
+    },
+    {
+      "minimumIncomeCents": 1890000000,
+      "maximumIncomeCents": 1899999999,
+      "rateBasisPoints": 945
+    },
+    {
+      "minimumIncomeCents": 2590000000,
+      "maximumIncomeCents": 2599999999,
+      "rateBasisPoints": 1295
+    },
+    {
+      "minimumIncomeCents": 9630000000,
+      "maximumIncomeCents": 9639999999,
+      "rateBasisPoints": 4815
+    },
+    {
+      "minimumIncomeCents": 4750000000,
+      "maximumIncomeCents": 4759999999,
+      "rateBasisPoints": 2375
+    },
+    {
+      "minimumIncomeCents": 1640000000,
+      "maximumIncomeCents": 1649999999,
+      "rateBasisPoints": 820
+    },
+    {
+      "minimumIncomeCents": 7440000000,
+      "maximumIncomeCents": 7449999999,
+      "rateBasisPoints": 3720
+    },
+    {
+      "minimumIncomeCents": 6700000000,
+      "maximumIncomeCents": 6709999999,
+      "rateBasisPoints": 3350
+    },
+    {
+      "minimumIncomeCents": 30000000,
+      "maximumIncomeCents": 39999999,
+      "rateBasisPoints": 15
+    },
+    {
+      "minimumIncomeCents": 1980000000,
+      "maximumIncomeCents": 1989999999,
+      "rateBasisPoints": 990
+    },
+    {
+      "minimumIncomeCents": 70000000,
+      "maximumIncomeCents": 79999999,
+      "rateBasisPoints": 35
+    },
+    {
+      "minimumIncomeCents": 7730000000,
+      "maximumIncomeCents": 7739999999,
+      "rateBasisPoints": 3865
+    },
+    {
+      "minimumIncomeCents": 8360000000,
+      "maximumIncomeCents": 8369999999,
+      "rateBasisPoints": 4180
+    },
+    {
+      "minimumIncomeCents": 170000000,
+      "maximumIncomeCents": 179999999,
+      "rateBasisPoints": 85
+    },
+    {
+      "minimumIncomeCents": 480000000,
+      "maximumIncomeCents": 489999999,
+      "rateBasisPoints": 240
+    },
+    {
+      "minimumIncomeCents": 6280000000,
+      "maximumIncomeCents": 6289999999,
+      "rateBasisPoints": 3140
+    },
+    {
+      "minimumIncomeCents": 4700000000,
+      "maximumIncomeCents": 4709999999,
+      "rateBasisPoints": 2350
+    },
+    {
+      "minimumIncomeCents": 5730000000,
+      "maximumIncomeCents": 5739999999,
+      "rateBasisPoints": 2865
+    },
+    {
+      "minimumIncomeCents": 7420000000,
+      "maximumIncomeCents": 7429999999,
+      "rateBasisPoints": 3710
+    },
+    {
+      "minimumIncomeCents": 8100000000,
+      "maximumIncomeCents": 8109999999,
+      "rateBasisPoints": 4050
+    },
+    {
+      "minimumIncomeCents": 1440000000,
+      "maximumIncomeCents": 1449999999,
+      "rateBasisPoints": 720
+    },
+    {
+      "minimumIncomeCents": 2130000000,
+      "maximumIncomeCents": 2139999999,
+      "rateBasisPoints": 1065
+    },
+    {
+      "minimumIncomeCents": 3080000000,
+      "maximumIncomeCents": 3089999999,
+      "rateBasisPoints": 1540
+    },
+    {
+      "minimumIncomeCents": 3940000000,
+      "maximumIncomeCents": 3949999999,
+      "rateBasisPoints": 1970
+    },
+    {
+      "minimumIncomeCents": 310000000,
+      "maximumIncomeCents": 319999999,
+      "rateBasisPoints": 155
+    },
+    {
+      "minimumIncomeCents": 4370000000,
+      "maximumIncomeCents": 4379999999,
+      "rateBasisPoints": 2185
+    },
+    {
+      "minimumIncomeCents": 150000000,
+      "maximumIncomeCents": 159999999,
+      "rateBasisPoints": 75
+    },
+    {
+      "minimumIncomeCents": 5090000000,
+      "maximumIncomeCents": 5099999999,
+      "rateBasisPoints": 2545
+    },
+    {
+      "minimumIncomeCents": 40000000,
+      "maximumIncomeCents": 49999999,
+      "rateBasisPoints": 20
+    },
+    {
+      "minimumIncomeCents": 4460000000,
+      "maximumIncomeCents": 4469999999,
+      "rateBasisPoints": 2230
+    },
+    {
+      "minimumIncomeCents": 7740000000,
+      "maximumIncomeCents": 7749999999,
+      "rateBasisPoints": 3870
+    },
+    {
+      "minimumIncomeCents": 2290000000,
+      "maximumIncomeCents": 2299999999,
+      "rateBasisPoints": 1145
+    },
+    {
+      "minimumIncomeCents": 7200000000,
+      "maximumIncomeCents": 7209999999,
+      "rateBasisPoints": 3600
+    },
+    {
+      "minimumIncomeCents": 260000000,
+      "maximumIncomeCents": 269999999,
+      "rateBasisPoints": 130
+    },
+    {
+      "minimumIncomeCents": 800000000,
+      "maximumIncomeCents": 809999999,
+      "rateBasisPoints": 400
+    },
+    {
+      "minimumIncomeCents": 3840000000,
+      "maximumIncomeCents": 3849999999,
+      "rateBasisPoints": 1920
+    },
+    {
+      "minimumIncomeCents": 4630000000,
+      "maximumIncomeCents": 4639999999,
+      "rateBasisPoints": 2315
+    },
+    {
+      "minimumIncomeCents": 1420000000,
+      "maximumIncomeCents": 1429999999,
+      "rateBasisPoints": 710
+    },
+    {
+      "minimumIncomeCents": 900000000,
+      "maximumIncomeCents": 909999999,
+      "rateBasisPoints": 450
+    },
+    {
+      "minimumIncomeCents": 3920000000,
+      "maximumIncomeCents": 3929999999,
+      "rateBasisPoints": 1960
+    },
+    {
+      "minimumIncomeCents": 3230000000,
+      "maximumIncomeCents": 3239999999,
+      "rateBasisPoints": 1615
+    },
+    {
+      "minimumIncomeCents": 2300000000,
+      "maximumIncomeCents": 2309999999,
+      "rateBasisPoints": 1150
+    },
+    {
+      "minimumIncomeCents": 1530000000,
+      "maximumIncomeCents": 1539999999,
+      "rateBasisPoints": 765
+    },
+    {
+      "minimumIncomeCents": 1170000000,
+      "maximumIncomeCents": 1179999999,
+      "rateBasisPoints": 585
+    },
+    {
+      "minimumIncomeCents": 1680000000,
+      "maximumIncomeCents": 1689999999,
+      "rateBasisPoints": 840
+    },
+    {
+      "minimumIncomeCents": 400000000,
+      "maximumIncomeCents": 409999999,
+      "rateBasisPoints": 200
+    },
+    {
+      "minimumIncomeCents": 6320000000,
+      "maximumIncomeCents": 6329999999,
+      "rateBasisPoints": 3160
+    },
+    {
+      "minimumIncomeCents": 4950000000,
+      "maximumIncomeCents": 4959999999,
+      "rateBasisPoints": 2475
+    },
+    {
+      "minimumIncomeCents": 5430000000,
+      "maximumIncomeCents": 5439999999,
+      "rateBasisPoints": 2715
+    },
+    {
+      "minimumIncomeCents": 5310000000,
+      "maximumIncomeCents": 5319999999,
+      "rateBasisPoints": 2655
+    },
+    {
+      "minimumIncomeCents": 4200000000,
+      "maximumIncomeCents": 4209999999,
+      "rateBasisPoints": 2100
+    },
+    {
+      "minimumIncomeCents": 1850000000,
+      "maximumIncomeCents": 1859999999,
+      "rateBasisPoints": 925
+    },
+    {
+      "minimumIncomeCents": 9340000000,
+      "maximumIncomeCents": 9349999999,
+      "rateBasisPoints": 4670
+    },
+    {
+      "minimumIncomeCents": 810000000,
+      "maximumIncomeCents": 819999999,
+      "rateBasisPoints": 405
+    },
+    {
+      "minimumIncomeCents": 8870000000,
+      "maximumIncomeCents": 8879999999,
+      "rateBasisPoints": 4435
+    },
+    {
+      "minimumIncomeCents": 5260000000,
+      "maximumIncomeCents": 5269999999,
+      "rateBasisPoints": 2630
+    },
+    {
+      "minimumIncomeCents": 2400000000,
+      "maximumIncomeCents": 2409999999,
+      "rateBasisPoints": 1200
+    },
+    {
+      "minimumIncomeCents": 3540000000,
+      "maximumIncomeCents": 3549999999,
+      "rateBasisPoints": 1770
+    },
+    {
+      "minimumIncomeCents": 8900000000,
+      "maximumIncomeCents": 8909999999,
+      "rateBasisPoints": 4450
+    },
+    {
+      "minimumIncomeCents": 5230000000,
+      "maximumIncomeCents": 5239999999,
+      "rateBasisPoints": 2615
+    },
+    {
+      "minimumIncomeCents": 4360000000,
+      "maximumIncomeCents": 4369999999,
+      "rateBasisPoints": 2180
+    },
+    {
+      "minimumIncomeCents": 3950000000,
+      "maximumIncomeCents": 3959999999,
+      "rateBasisPoints": 1975
+    },
+    {
+      "minimumIncomeCents": 6060000000,
+      "maximumIncomeCents": 6069999999,
+      "rateBasisPoints": 3030
+    },
+    {
+      "minimumIncomeCents": 10000000,
+      "maximumIncomeCents": 19999999,
+      "rateBasisPoints": 5
+    },
+    {
+      "minimumIncomeCents": 3010000000,
+      "maximumIncomeCents": 3019999999,
+      "rateBasisPoints": 1505
+    },
+    {
+      "minimumIncomeCents": 5670000000,
+      "maximumIncomeCents": 5679999999,
+      "rateBasisPoints": 2835
+    },
+    {
+      "minimumIncomeCents": 9890000000,
+      "maximumIncomeCents": 9899999999,
+      "rateBasisPoints": 4945
+    },
+    {
+      "minimumIncomeCents": 1760000000,
+      "maximumIncomeCents": 1769999999,
+      "rateBasisPoints": 880
+    },
+    {
+      "minimumIncomeCents": 7590000000,
+      "maximumIncomeCents": 7599999999,
+      "rateBasisPoints": 3795
+    },
+    {
+      "minimumIncomeCents": 1780000000,
+      "maximumIncomeCents": 1789999999,
+      "rateBasisPoints": 890
+    },
+    {
+      "minimumIncomeCents": 6810000000,
+      "maximumIncomeCents": 6819999999,
+      "rateBasisPoints": 3405
+    },
+    {
+      "minimumIncomeCents": 4510000000,
+      "maximumIncomeCents": 4519999999,
+      "rateBasisPoints": 2255
+    },
+    {
+      "minimumIncomeCents": 5680000000,
+      "maximumIncomeCents": 5689999999,
+      "rateBasisPoints": 2840
+    },
+    {
+      "minimumIncomeCents": 7210000000,
+      "maximumIncomeCents": 7219999999,
+      "rateBasisPoints": 3605
+    },
+    {
+      "minimumIncomeCents": 1410000000,
+      "maximumIncomeCents": 1419999999,
+      "rateBasisPoints": 705
+    },
+    {
+      "minimumIncomeCents": 5740000000,
+      "maximumIncomeCents": 5749999999,
+      "rateBasisPoints": 2870
+    },
+    {
+      "minimumIncomeCents": 9850000000,
+      "maximumIncomeCents": 9859999999,
+      "rateBasisPoints": 4925
+    },
+    {
+      "minimumIncomeCents": 8030000000,
+      "maximumIncomeCents": 8039999999,
+      "rateBasisPoints": 4015
+    },
+    {
+      "minimumIncomeCents": 7900000000,
+      "maximumIncomeCents": 7909999999,
+      "rateBasisPoints": 3950
+    },
+    {
+      "minimumIncomeCents": 5870000000,
+      "maximumIncomeCents": 5879999999,
+      "rateBasisPoints": 2935
+    },
+    {
+      "minimumIncomeCents": 9830000000,
+      "maximumIncomeCents": 9839999999,
+      "rateBasisPoints": 4915
+    },
+    {
+      "minimumIncomeCents": 4420000000,
+      "maximumIncomeCents": 4429999999,
+      "rateBasisPoints": 2210
+    },
+    {
+      "minimumIncomeCents": 5560000000,
+      "maximumIncomeCents": 5569999999,
+      "rateBasisPoints": 2780
+    },
+    {
+      "minimumIncomeCents": 1090000000,
+      "maximumIncomeCents": 1099999999,
+      "rateBasisPoints": 545
+    },
+    {
+      "minimumIncomeCents": 2990000000,
+      "maximumIncomeCents": 2999999999,
+      "rateBasisPoints": 1495
+    },
+    {
+      "minimumIncomeCents": 9690000000,
+      "maximumIncomeCents": 9699999999,
+      "rateBasisPoints": 4845
+    },
+    {
+      "minimumIncomeCents": 7710000000,
+      "maximumIncomeCents": 7719999999,
+      "rateBasisPoints": 3855
+    },
+    {
+      "minimumIncomeCents": 5760000000,
+      "maximumIncomeCents": 5769999999,
+      "rateBasisPoints": 2880
+    },
+    {
+      "minimumIncomeCents": 5540000000,
+      "maximumIncomeCents": 5549999999,
+      "rateBasisPoints": 2770
+    },
+    {
+      "minimumIncomeCents": 1470000000,
+      "maximumIncomeCents": 1479999999,
+      "rateBasisPoints": 735
+    },
+    {
+      "minimumIncomeCents": 6380000000,
+      "maximumIncomeCents": 6389999999,
+      "rateBasisPoints": 3190
+    },
+    {
+      "minimumIncomeCents": 5340000000,
+      "maximumIncomeCents": 5349999999,
+      "rateBasisPoints": 2670
+    },
+    {
+      "minimumIncomeCents": 710000000,
+      "maximumIncomeCents": 719999999,
+      "rateBasisPoints": 355
+    },
+    {
+      "minimumIncomeCents": 630000000,
+      "maximumIncomeCents": 639999999,
+      "rateBasisPoints": 315
+    },
+    {
+      "minimumIncomeCents": 3570000000,
+      "maximumIncomeCents": 3579999999,
+      "rateBasisPoints": 1785
+    },
+    {
+      "minimumIncomeCents": 4210000000,
+      "maximumIncomeCents": 4219999999,
+      "rateBasisPoints": 2105
+    },
+    {
+      "minimumIncomeCents": 8710000000,
+      "maximumIncomeCents": 8719999999,
+      "rateBasisPoints": 4355
+    },
+    {
+      "minimumIncomeCents": 3330000000,
+      "maximumIncomeCents": 3339999999,
+      "rateBasisPoints": 1665
+    },
+    {
+      "minimumIncomeCents": 2700000000,
+      "maximumIncomeCents": 2709999999,
+      "rateBasisPoints": 1350
+    },
+    {
+      "minimumIncomeCents": 9800000000,
+      "maximumIncomeCents": 9809999999,
+      "rateBasisPoints": 4900
+    },
+    {
+      "minimumIncomeCents": 9900000000,
+      "maximumIncomeCents": 9909999999,
+      "rateBasisPoints": 4950
+    },
+    {
+      "minimumIncomeCents": 8750000000,
+      "maximumIncomeCents": 8759999999,
+      "rateBasisPoints": 4375
+    },
+    {
+      "minimumIncomeCents": 8650000000,
+      "maximumIncomeCents": 8659999999,
+      "rateBasisPoints": 4325
+    },
+    {
+      "minimumIncomeCents": 9380000000,
+      "maximumIncomeCents": 9389999999,
+      "rateBasisPoints": 4690
+    },
+    {
+      "minimumIncomeCents": 2420000000,
+      "maximumIncomeCents": 2429999999,
+      "rateBasisPoints": 1210
+    },
+    {
+      "minimumIncomeCents": 3520000000,
+      "maximumIncomeCents": 3529999999,
+      "rateBasisPoints": 1760
+    },
+    {
+      "minimumIncomeCents": 160000000,
+      "maximumIncomeCents": 169999999,
+      "rateBasisPoints": 80
+    },
+    {
+      "minimumIncomeCents": 750000000,
+      "maximumIncomeCents": 759999999,
+      "rateBasisPoints": 375
+    },
+    {
+      "minimumIncomeCents": 1940000000,
+      "maximumIncomeCents": 1949999999,
+      "rateBasisPoints": 970
+    },
+    {
+      "minimumIncomeCents": 5110000000,
+      "maximumIncomeCents": 5119999999,
+      "rateBasisPoints": 2555
+    },
+    {
+      "minimumIncomeCents": 4140000000,
+      "maximumIncomeCents": 4149999999,
+      "rateBasisPoints": 2070
+    },
+    {
+      "minimumIncomeCents": 3590000000,
+      "maximumIncomeCents": 3599999999,
+      "rateBasisPoints": 1795
+    },
+    {
+      "minimumIncomeCents": 7380000000,
+      "maximumIncomeCents": 7389999999,
+      "rateBasisPoints": 3690
+    },
+    {
+      "minimumIncomeCents": 1720000000,
+      "maximumIncomeCents": 1729999999,
+      "rateBasisPoints": 860
+    },
+    {
+      "minimumIncomeCents": 4530000000,
+      "maximumIncomeCents": 4539999999,
+      "rateBasisPoints": 2265
+    },
+    {
+      "minimumIncomeCents": 5380000000,
+      "maximumIncomeCents": 5389999999,
+      "rateBasisPoints": 2690
+    },
+    {
+      "minimumIncomeCents": 720000000,
+      "maximumIncomeCents": 729999999,
+      "rateBasisPoints": 360
+    },
+    {
+      "minimumIncomeCents": 9910000000,
+      "maximumIncomeCents": 9919999999,
+      "rateBasisPoints": 4955
+    },
+    {
+      "minimumIncomeCents": 3470000000,
+      "maximumIncomeCents": 3479999999,
+      "rateBasisPoints": 1735
+    },
+    {
+      "minimumIncomeCents": 5160000000,
+      "maximumIncomeCents": 5169999999,
+      "rateBasisPoints": 2580
+    },
+    {
+      "minimumIncomeCents": 8720000000,
+      "maximumIncomeCents": 8729999999,
+      "rateBasisPoints": 4360
+    },
+    {
+      "minimumIncomeCents": 2170000000,
+      "maximumIncomeCents": 2179999999,
+      "rateBasisPoints": 1085
+    },
+    {
+      "minimumIncomeCents": 4640000000,
+      "maximumIncomeCents": 4649999999,
+      "rateBasisPoints": 2320
+    },
+    {
+      "minimumIncomeCents": 2610000000,
+      "maximumIncomeCents": 2619999999,
+      "rateBasisPoints": 1305
+    },
+    {
+      "minimumIncomeCents": 4340000000,
+      "maximumIncomeCents": 4349999999,
+      "rateBasisPoints": 2170
+    },
+    {
+      "minimumIncomeCents": 2140000000,
+      "maximumIncomeCents": 2149999999,
+      "rateBasisPoints": 1070
+    },
+    {
+      "minimumIncomeCents": 7840000000,
+      "maximumIncomeCents": 7849999999,
+      "rateBasisPoints": 3920
+    },
+    {
+      "minimumIncomeCents": 6410000000,
+      "maximumIncomeCents": 6419999999,
+      "rateBasisPoints": 3205
+    },
+    {
+      "minimumIncomeCents": 7020000000,
+      "maximumIncomeCents": 7029999999,
+      "rateBasisPoints": 3510
+    },
+    {
+      "minimumIncomeCents": 3120000000,
+      "maximumIncomeCents": 3129999999,
+      "rateBasisPoints": 1560
+    },
+    {
+      "minimumIncomeCents": 4100000000,
+      "maximumIncomeCents": 4109999999,
+      "rateBasisPoints": 2050
+    },
+    {
+      "minimumIncomeCents": 8310000000,
+      "maximumIncomeCents": 8319999999,
+      "rateBasisPoints": 4155
+    },
+    {
+      "minimumIncomeCents": 320000000,
+      "maximumIncomeCents": 329999999,
+      "rateBasisPoints": 160
+    },
+    {
+      "minimumIncomeCents": 620000000,
+      "maximumIncomeCents": 629999999,
+      "rateBasisPoints": 310
+    },
+    {
+      "minimumIncomeCents": 4960000000,
+      "maximumIncomeCents": 4969999999,
+      "rateBasisPoints": 2480
+    },
+    {
+      "minimumIncomeCents": 8450000000,
+      "maximumIncomeCents": 8459999999,
+      "rateBasisPoints": 4225
+    },
+    {
+      "minimumIncomeCents": 940000000,
+      "maximumIncomeCents": 949999999,
+      "rateBasisPoints": 470
+    },
+    {
+      "minimumIncomeCents": 3140000000,
+      "maximumIncomeCents": 3149999999,
+      "rateBasisPoints": 1570
+    },
+    {
+      "minimumIncomeCents": 890000000,
+      "maximumIncomeCents": 899999999,
+      "rateBasisPoints": 445
+    },
+    {
+      "minimumIncomeCents": 2720000000,
+      "maximumIncomeCents": 2729999999,
+      "rateBasisPoints": 1360
+    },
+    {
+      "minimumIncomeCents": 2630000000,
+      "maximumIncomeCents": 2639999999,
+      "rateBasisPoints": 1315
+    },
+    {
+      "minimumIncomeCents": 6300000000,
+      "maximumIncomeCents": 6309999999,
+      "rateBasisPoints": 3150
+    },
+    {
+      "minimumIncomeCents": 4910000000,
+      "maximumIncomeCents": 4919999999,
+      "rateBasisPoints": 2455
+    },
+    {
+      "minimumIncomeCents": 8580000000,
+      "maximumIncomeCents": 8589999999,
+      "rateBasisPoints": 4290
+    },
+    {
+      "minimumIncomeCents": 3930000000,
+      "maximumIncomeCents": 3939999999,
+      "rateBasisPoints": 1965
+    },
+    {
+      "minimumIncomeCents": 9000000000,
+      "maximumIncomeCents": 9009999999,
+      "rateBasisPoints": 4500
+    },
+    {
+      "minimumIncomeCents": 1490000000,
+      "maximumIncomeCents": 1499999999,
+      "rateBasisPoints": 745
+    },
+    {
+      "minimumIncomeCents": 410000000,
+      "maximumIncomeCents": 419999999,
+      "rateBasisPoints": 205
+    },
+    {
+      "minimumIncomeCents": 6480000000,
+      "maximumIncomeCents": 6489999999,
+      "rateBasisPoints": 3240
+    },
+    {
+      "minimumIncomeCents": 270000000,
+      "maximumIncomeCents": 279999999,
+      "rateBasisPoints": 135
+    },
+    {
+      "minimumIncomeCents": 7530000000,
+      "maximumIncomeCents": 7539999999,
+      "rateBasisPoints": 3765
+    },
+    {
+      "minimumIncomeCents": 8410000000,
+      "maximumIncomeCents": 8419999999,
+      "rateBasisPoints": 4205
+    },
+    {
+      "minimumIncomeCents": 8190000000,
+      "maximumIncomeCents": 8199999999,
+      "rateBasisPoints": 4095
+    },
+    {
+      "minimumIncomeCents": 9140000000,
+      "maximumIncomeCents": 9149999999,
+      "rateBasisPoints": 4570
+    },
+    {
+      "minimumIncomeCents": 3090000000,
+      "maximumIncomeCents": 3099999999,
+      "rateBasisPoints": 1545
+    },
+    {
+      "minimumIncomeCents": 1650000000,
+      "maximumIncomeCents": 1659999999,
+      "rateBasisPoints": 825
+    },
+    {
+      "minimumIncomeCents": 50000000,
+      "maximumIncomeCents": 59999999,
+      "rateBasisPoints": 25
+    },
+    {
+      "minimumIncomeCents": 4270000000,
+      "maximumIncomeCents": 4279999999,
+      "rateBasisPoints": 2135
+    },
+    {
+      "minimumIncomeCents": 7580000000,
+      "maximumIncomeCents": 7589999999,
+      "rateBasisPoints": 3790
+    },
+    {
+      "minimumIncomeCents": 5700000000,
+      "maximumIncomeCents": 5709999999,
+      "rateBasisPoints": 2850
+    },
+    {
+      "minimumIncomeCents": 3620000000,
+      "maximumIncomeCents": 3629999999,
+      "rateBasisPoints": 1810
+    },
+    {
+      "minimumIncomeCents": 3460000000,
+      "maximumIncomeCents": 3469999999,
+      "rateBasisPoints": 1730
+    },
+    {
+      "minimumIncomeCents": 9090000000,
+      "maximumIncomeCents": 9099999999,
+      "rateBasisPoints": 4545
+    },
+    {
+      "minimumIncomeCents": 770000000,
+      "maximumIncomeCents": 779999999,
+      "rateBasisPoints": 385
+    },
+    {
+      "minimumIncomeCents": 5150000000,
+      "maximumIncomeCents": 5159999999,
+      "rateBasisPoints": 2575
+    },
+    {
+      "minimumIncomeCents": 2050000000,
+      "maximumIncomeCents": 2059999999,
+      "rateBasisPoints": 1025
+    },
+    {
+      "minimumIncomeCents": 6820000000,
+      "maximumIncomeCents": 6829999999,
+      "rateBasisPoints": 3410
+    },
+    {
+      "minimumIncomeCents": 290000000,
+      "maximumIncomeCents": 299999999,
+      "rateBasisPoints": 145
+    },
+    {
+      "minimumIncomeCents": 2340000000,
+      "maximumIncomeCents": 2349999999,
+      "rateBasisPoints": 1170
+    },
+    {
+      "minimumIncomeCents": 7850000000,
+      "maximumIncomeCents": 7859999999,
+      "rateBasisPoints": 3925
+    },
+    {
+      "minimumIncomeCents": 9840000000,
+      "maximumIncomeCents": 9849999999,
+      "rateBasisPoints": 4920
+    },
+    {
+      "minimumIncomeCents": 470000000,
+      "maximumIncomeCents": 479999999,
+      "rateBasisPoints": 235
+    },
+    {
+      "minimumIncomeCents": 6860000000,
+      "maximumIncomeCents": 6869999999,
+      "rateBasisPoints": 3430
+    },
+    {
+      "minimumIncomeCents": 3420000000,
+      "maximumIncomeCents": 3429999999,
+      "rateBasisPoints": 1710
+    },
+    {
+      "minimumIncomeCents": 6730000000,
+      "maximumIncomeCents": 6739999999,
+      "rateBasisPoints": 3365
+    },
+    {
+      "minimumIncomeCents": 3210000000,
+      "maximumIncomeCents": 3219999999,
+      "rateBasisPoints": 1605
+    },
+    {
+      "minimumIncomeCents": 5840000000,
+      "maximumIncomeCents": 5849999999,
+      "rateBasisPoints": 2920
+    },
+    {
+      "minimumIncomeCents": 7080000000,
+      "maximumIncomeCents": 7089999999,
+      "rateBasisPoints": 3540
+    },
+    {
+      "minimumIncomeCents": 9810000000,
+      "maximumIncomeCents": 9819999999,
+      "rateBasisPoints": 4905
+    },
+    {
+      "minimumIncomeCents": 2950000000,
+      "maximumIncomeCents": 2959999999,
+      "rateBasisPoints": 1475
+    },
+    {
+      "minimumIncomeCents": 5180000000,
+      "maximumIncomeCents": 5189999999,
+      "rateBasisPoints": 2590
+    },
+    {
+      "minimumIncomeCents": 740000000,
+      "maximumIncomeCents": 749999999,
+      "rateBasisPoints": 370
+    },
+    {
+      "minimumIncomeCents": 1820000000,
+      "maximumIncomeCents": 1829999999,
+      "rateBasisPoints": 910
+    },
+    {
+      "minimumIncomeCents": 9820000000,
+      "maximumIncomeCents": 9829999999,
+      "rateBasisPoints": 4910
+    },
+    {
+      "minimumIncomeCents": 2690000000,
+      "maximumIncomeCents": 2699999999,
+      "rateBasisPoints": 1345
+    },
+    {
+      "minimumIncomeCents": 6000000000,
+      "maximumIncomeCents": 6009999999,
+      "rateBasisPoints": 3000
+    },
+    {
+      "minimumIncomeCents": 4220000000,
+      "maximumIncomeCents": 4229999999,
+      "rateBasisPoints": 2110
+    },
+    {
+      "minimumIncomeCents": 3430000000,
+      "maximumIncomeCents": 3439999999,
+      "rateBasisPoints": 1715
+    },
+    {
+      "minimumIncomeCents": 6580000000,
+      "maximumIncomeCents": 6589999999,
+      "rateBasisPoints": 3290
+    },
+    {
+      "minimumIncomeCents": 2370000000,
+      "maximumIncomeCents": 2379999999,
+      "rateBasisPoints": 1185
+    },
+    {
+      "minimumIncomeCents": 9610000000,
+      "maximumIncomeCents": 9619999999,
+      "rateBasisPoints": 4805
+    },
+    {
+      "minimumIncomeCents": 6260000000,
+      "maximumIncomeCents": 6269999999,
+      "rateBasisPoints": 3130
+    },
+    {
+      "minimumIncomeCents": 2310000000,
+      "maximumIncomeCents": 2319999999,
+      "rateBasisPoints": 1155
+    },
+    {
+      "minimumIncomeCents": 2390000000,
+      "maximumIncomeCents": 2399999999,
+      "rateBasisPoints": 1195
+    },
+    {
+      "minimumIncomeCents": 9750000000,
+      "maximumIncomeCents": 9759999999,
+      "rateBasisPoints": 4875
+    },
+    {
+      "minimumIncomeCents": 6680000000,
+      "maximumIncomeCents": 6689999999,
+      "rateBasisPoints": 3340
+    },
+    {
+      "minimumIncomeCents": 8420000000,
+      "maximumIncomeCents": 8429999999,
+      "rateBasisPoints": 4210
+    },
+    {
+      "minimumIncomeCents": 4820000000,
+      "maximumIncomeCents": 4829999999,
+      "rateBasisPoints": 2410
+    },
+    {
+      "minimumIncomeCents": 580000000,
+      "maximumIncomeCents": 589999999,
+      "rateBasisPoints": 290
+    },
+    {
+      "minimumIncomeCents": 9990000000,
+      "maximumIncomeCents": null,
+      "rateBasisPoints": 4995
+    },
+    {
+      "minimumIncomeCents": 3160000000,
+      "maximumIncomeCents": 3169999999,
+      "rateBasisPoints": 1580
+    },
+    {
+      "minimumIncomeCents": 430000000,
+      "maximumIncomeCents": 439999999,
+      "rateBasisPoints": 215
+    },
+    {
+      "minimumIncomeCents": 6930000000,
+      "maximumIncomeCents": 6939999999,
+      "rateBasisPoints": 3465
+    },
+    {
+      "minimumIncomeCents": 2520000000,
+      "maximumIncomeCents": 2529999999,
+      "rateBasisPoints": 1260
+    },
+    {
+      "minimumIncomeCents": 730000000,
+      "maximumIncomeCents": 739999999,
+      "rateBasisPoints": 365
+    },
+    {
+      "minimumIncomeCents": 840000000,
+      "maximumIncomeCents": 849999999,
+      "rateBasisPoints": 420
+    },
+    {
+      "minimumIncomeCents": 1250000000,
+      "maximumIncomeCents": 1259999999,
+      "rateBasisPoints": 625
+    },
+    {
+      "minimumIncomeCents": 4730000000,
+      "maximumIncomeCents": 4739999999,
+      "rateBasisPoints": 2365
+    },
+    {
+      "minimumIncomeCents": 1700000000,
+      "maximumIncomeCents": 1709999999,
+      "rateBasisPoints": 850
+    },
+    {
+      "minimumIncomeCents": 6620000000,
+      "maximumIncomeCents": 6629999999,
+      "rateBasisPoints": 3310
+    },
+    {
+      "minimumIncomeCents": 8740000000,
+      "maximumIncomeCents": 8749999999,
+      "rateBasisPoints": 4370
+    },
+    {
+      "minimumIncomeCents": 3370000000,
+      "maximumIncomeCents": 3379999999,
+      "rateBasisPoints": 1685
+    },
+    {
+      "minimumIncomeCents": 5970000000,
+      "maximumIncomeCents": 5979999999,
+      "rateBasisPoints": 2985
+    },
+    {
+      "minimumIncomeCents": 4850000000,
+      "maximumIncomeCents": 4859999999,
+      "rateBasisPoints": 2425
+    },
+    {
+      "minimumIncomeCents": 3610000000,
+      "maximumIncomeCents": 3619999999,
+      "rateBasisPoints": 1805
+    },
+    {
+      "minimumIncomeCents": 8920000000,
+      "maximumIncomeCents": 8929999999,
+      "rateBasisPoints": 4460
+    },
+    {
+      "minimumIncomeCents": 3250000000,
+      "maximumIncomeCents": 3259999999,
+      "rateBasisPoints": 1625
+    },
+    {
+      "minimumIncomeCents": 780000000,
+      "maximumIncomeCents": 789999999,
+      "rateBasisPoints": 390
+    },
+    {
+      "minimumIncomeCents": 8500000000,
+      "maximumIncomeCents": 8509999999,
+      "rateBasisPoints": 4250
+    },
+    {
+      "minimumIncomeCents": 2930000000,
+      "maximumIncomeCents": 2939999999,
+      "rateBasisPoints": 1465
+    },
+    {
+      "minimumIncomeCents": 5530000000,
+      "maximumIncomeCents": 5539999999,
+      "rateBasisPoints": 2765
+    },
+    {
+      "minimumIncomeCents": 4600000000,
+      "maximumIncomeCents": 4609999999,
+      "rateBasisPoints": 2300
+    },
+    {
+      "minimumIncomeCents": 4170000000,
+      "maximumIncomeCents": 4179999999,
+      "rateBasisPoints": 2085
+    },
+    {
+      "minimumIncomeCents": 5020000000,
+      "maximumIncomeCents": 5029999999,
+      "rateBasisPoints": 2510
+    },
+    {
+      "minimumIncomeCents": 1970000000,
+      "maximumIncomeCents": 1979999999,
+      "rateBasisPoints": 985
+    },
+    {
+      "minimumIncomeCents": 5460000000,
+      "maximumIncomeCents": 5469999999,
+      "rateBasisPoints": 2730
+    },
+    {
+      "minimumIncomeCents": 5770000000,
+      "maximumIncomeCents": 5779999999,
+      "rateBasisPoints": 2885
+    },
+    {
+      "minimumIncomeCents": 5910000000,
+      "maximumIncomeCents": 5919999999,
+      "rateBasisPoints": 2955
+    },
+    {
+      "minimumIncomeCents": 2730000000,
+      "maximumIncomeCents": 2739999999,
+      "rateBasisPoints": 1365
+    },
+    {
+      "minimumIncomeCents": 1690000000,
+      "maximumIncomeCents": 1699999999,
+      "rateBasisPoints": 845
+    },
+    {
+      "minimumIncomeCents": 9530000000,
+      "maximumIncomeCents": 9539999999,
+      "rateBasisPoints": 4765
+    },
+    {
+      "minimumIncomeCents": 5490000000,
+      "maximumIncomeCents": 5499999999,
+      "rateBasisPoints": 2745
+    },
+    {
+      "minimumIncomeCents": 1020000000,
+      "maximumIncomeCents": 1029999999,
+      "rateBasisPoints": 510
+    },
+    {
+      "minimumIncomeCents": 1880000000,
+      "maximumIncomeCents": 1889999999,
+      "rateBasisPoints": 940
+    },
+    {
+      "minimumIncomeCents": 6890000000,
+      "maximumIncomeCents": 6899999999,
+      "rateBasisPoints": 3445
+    },
+    {
+      "minimumIncomeCents": 3580000000,
+      "maximumIncomeCents": 3589999999,
+      "rateBasisPoints": 1790
+    },
+    {
+      "minimumIncomeCents": 680000000,
+      "maximumIncomeCents": 689999999,
+      "rateBasisPoints": 340
+    },
+    {
+      "minimumIncomeCents": 5130000000,
+      "maximumIncomeCents": 5139999999,
+      "rateBasisPoints": 2565
+    },
+    {
+      "minimumIncomeCents": 7680000000,
+      "maximumIncomeCents": 7689999999,
+      "rateBasisPoints": 3840
+    },
+    {
+      "minimumIncomeCents": 6070000000,
+      "maximumIncomeCents": 6079999999,
+      "rateBasisPoints": 3035
+    },
+    {
+      "minimumIncomeCents": 7790000000,
+      "maximumIncomeCents": 7799999999,
+      "rateBasisPoints": 3895
+    },
+    {
+      "minimumIncomeCents": 4490000000,
+      "maximumIncomeCents": 4499999999,
+      "rateBasisPoints": 2245
+    },
+    {
+      "minimumIncomeCents": 1240000000,
+      "maximumIncomeCents": 1249999999,
+      "rateBasisPoints": 620
+    },
+    {
+      "minimumIncomeCents": 5470000000,
+      "maximumIncomeCents": 5479999999,
+      "rateBasisPoints": 2735
+    },
+    {
+      "minimumIncomeCents": 3030000000,
+      "maximumIncomeCents": 3039999999,
+      "rateBasisPoints": 1515
+    },
+    {
+      "minimumIncomeCents": 6140000000,
+      "maximumIncomeCents": 6149999999,
+      "rateBasisPoints": 3070
+    },
+    {
+      "minimumIncomeCents": 7330000000,
+      "maximumIncomeCents": 7339999999,
+      "rateBasisPoints": 3665
+    },
+    {
+      "minimumIncomeCents": 3400000000,
+      "maximumIncomeCents": 3409999999,
+      "rateBasisPoints": 1700
+    },
+    {
+      "minimumIncomeCents": 1390000000,
+      "maximumIncomeCents": 1399999999,
+      "rateBasisPoints": 695
+    },
+    {
+      "minimumIncomeCents": 6870000000,
+      "maximumIncomeCents": 6879999999,
+      "rateBasisPoints": 3435
+    },
+    {
+      "minimumIncomeCents": 7490000000,
+      "maximumIncomeCents": 7499999999,
+      "rateBasisPoints": 3745
+    },
+    {
+      "minimumIncomeCents": 4040000000,
+      "maximumIncomeCents": 4049999999,
+      "rateBasisPoints": 2020
+    },
+    {
+      "minimumIncomeCents": 2120000000,
+      "maximumIncomeCents": 2129999999,
+      "rateBasisPoints": 1060
+    },
+    {
+      "minimumIncomeCents": 7090000000,
+      "maximumIncomeCents": 7099999999,
+      "rateBasisPoints": 3545
+    },
+    {
+      "minimumIncomeCents": 4290000000,
+      "maximumIncomeCents": 4299999999,
+      "rateBasisPoints": 2145
+    },
+    {
+      "minimumIncomeCents": 5790000000,
+      "maximumIncomeCents": 5799999999,
+      "rateBasisPoints": 2895
+    },
+    {
+      "minimumIncomeCents": 6020000000,
+      "maximumIncomeCents": 6029999999,
+      "rateBasisPoints": 3010
+    },
+    {
+      "minimumIncomeCents": 2820000000,
+      "maximumIncomeCents": 2829999999,
+      "rateBasisPoints": 1410
+    },
+    {
+      "minimumIncomeCents": 2470000000,
+      "maximumIncomeCents": 2479999999,
+      "rateBasisPoints": 1235
+    },
+    {
+      "minimumIncomeCents": 2280000000,
+      "maximumIncomeCents": 2289999999,
+      "rateBasisPoints": 1140
+    },
+    {
+      "minimumIncomeCents": 6350000000,
+      "maximumIncomeCents": 6359999999,
+      "rateBasisPoints": 3175
+    },
+    {
+      "minimumIncomeCents": 3340000000,
+      "maximumIncomeCents": 3349999999,
+      "rateBasisPoints": 1670
+    },
+    {
+      "minimumIncomeCents": 3790000000,
+      "maximumIncomeCents": 3799999999,
+      "rateBasisPoints": 1895
+    },
+    {
+      "minimumIncomeCents": 6970000000,
+      "maximumIncomeCents": 6979999999,
+      "rateBasisPoints": 3485
+    },
+    {
+      "minimumIncomeCents": 6340000000,
+      "maximumIncomeCents": 6349999999,
+      "rateBasisPoints": 3170
+    },
+    {
+      "minimumIncomeCents": 2330000000,
+      "maximumIncomeCents": 2339999999,
+      "rateBasisPoints": 1165
+    },
+    {
+      "minimumIncomeCents": 5080000000,
+      "maximumIncomeCents": 5089999999,
+      "rateBasisPoints": 2540
+    },
+    {
+      "minimumIncomeCents": 7540000000,
+      "maximumIncomeCents": 7549999999,
+      "rateBasisPoints": 3770
+    },
+    {
+      "minimumIncomeCents": 4180000000,
+      "maximumIncomeCents": 4189999999,
+      "rateBasisPoints": 2090
+    },
+    {
+      "minimumIncomeCents": 5250000000,
+      "maximumIncomeCents": 5259999999,
+      "rateBasisPoints": 2625
+    },
+    {
+      "minimumIncomeCents": 9490000000,
+      "maximumIncomeCents": 9499999999,
+      "rateBasisPoints": 4745
+    },
+    {
+      "minimumIncomeCents": 9880000000,
+      "maximumIncomeCents": 9889999999,
+      "rateBasisPoints": 4940
+    },
+    {
+      "minimumIncomeCents": 4030000000,
+      "maximumIncomeCents": 4039999999,
+      "rateBasisPoints": 2015
+    },
+    {
+      "minimumIncomeCents": 1520000000,
+      "maximumIncomeCents": 1529999999,
+      "rateBasisPoints": 760
+    },
+    {
+      "minimumIncomeCents": 2250000000,
+      "maximumIncomeCents": 2259999999,
+      "rateBasisPoints": 1125
+    },
+    {
+      "minimumIncomeCents": 950000000,
+      "maximumIncomeCents": 959999999,
+      "rateBasisPoints": 475
+    },
+    {
+      "minimumIncomeCents": 6290000000,
+      "maximumIncomeCents": 6299999999,
+      "rateBasisPoints": 3145
+    },
+    {
+      "minimumIncomeCents": 4660000000,
+      "maximumIncomeCents": 4669999999,
+      "rateBasisPoints": 2330
+    },
+    {
+      "minimumIncomeCents": 3970000000,
+      "maximumIncomeCents": 3979999999,
+      "rateBasisPoints": 1985
+    },
+    {
+      "minimumIncomeCents": 1480000000,
+      "maximumIncomeCents": 1489999999,
+      "rateBasisPoints": 740
+    },
+    {
+      "minimumIncomeCents": 9870000000,
+      "maximumIncomeCents": 9879999999,
+      "rateBasisPoints": 4935
+    },
+    {
+      "minimumIncomeCents": 120000000,
+      "maximumIncomeCents": 129999999,
+      "rateBasisPoints": 60
+    },
+    {
+      "minimumIncomeCents": 4260000000,
+      "maximumIncomeCents": 4269999999,
+      "rateBasisPoints": 2130
+    },
+    {
+      "minimumIncomeCents": 990000000,
+      "maximumIncomeCents": 999999999,
+      "rateBasisPoints": 495
+    },
+    {
+      "minimumIncomeCents": 9780000000,
+      "maximumIncomeCents": 9789999999,
+      "rateBasisPoints": 4890
+    },
+    {
+      "minimumIncomeCents": 8700000000,
+      "maximumIncomeCents": 8709999999,
+      "rateBasisPoints": 4350
+    },
+    {
+      "minimumIncomeCents": 1010000000,
+      "maximumIncomeCents": 1019999999,
+      "rateBasisPoints": 505
+    },
+    {
+      "minimumIncomeCents": 2890000000,
+      "maximumIncomeCents": 2899999999,
+      "rateBasisPoints": 1445
+    },
+    {
+      "minimumIncomeCents": 5590000000,
+      "maximumIncomeCents": 5599999999,
+      "rateBasisPoints": 2795
+    },
+    {
+      "minimumIncomeCents": 210000000,
+      "maximumIncomeCents": 219999999,
+      "rateBasisPoints": 105
+    },
+    {
+      "minimumIncomeCents": 340000000,
+      "maximumIncomeCents": 349999999,
+      "rateBasisPoints": 170
+    },
+    {
+      "minimumIncomeCents": 2060000000,
+      "maximumIncomeCents": 2069999999,
+      "rateBasisPoints": 1030
+    },
+    {
+      "minimumIncomeCents": 9590000000,
+      "maximumIncomeCents": 9599999999,
+      "rateBasisPoints": 4795
+    },
+    {
+      "minimumIncomeCents": 8780000000,
+      "maximumIncomeCents": 8789999999,
+      "rateBasisPoints": 4390
+    },
+    {
+      "minimumIncomeCents": 360000000,
+      "maximumIncomeCents": 369999999,
+      "rateBasisPoints": 180
+    },
+    {
+      "minimumIncomeCents": 3650000000,
+      "maximumIncomeCents": 3659999999,
+      "rateBasisPoints": 1825
+    },
+    {
+      "minimumIncomeCents": 500000000,
+      "maximumIncomeCents": 509999999,
+      "rateBasisPoints": 250
+    },
+    {
+      "minimumIncomeCents": 8550000000,
+      "maximumIncomeCents": 8559999999,
+      "rateBasisPoints": 4275
+    },
+    {
+      "minimumIncomeCents": 3050000000,
+      "maximumIncomeCents": 3059999999,
+      "rateBasisPoints": 1525
+    },
+    {
+      "minimumIncomeCents": 790000000,
+      "maximumIncomeCents": 799999999,
+      "rateBasisPoints": 395
+    },
+    {
+      "minimumIncomeCents": 7960000000,
+      "maximumIncomeCents": 7969999999,
+      "rateBasisPoints": 3980
+    },
+    {
+      "minimumIncomeCents": 8600000000,
+      "maximumIncomeCents": 8609999999,
+      "rateBasisPoints": 4300
+    },
+    {
+      "minimumIncomeCents": 190000000,
+      "maximumIncomeCents": 199999999,
+      "rateBasisPoints": 95
+    },
+    {
+      "minimumIncomeCents": 6840000000,
+      "maximumIncomeCents": 6849999999,
+      "rateBasisPoints": 3420
+    },
+    {
+      "minimumIncomeCents": 5650000000,
+      "maximumIncomeCents": 5659999999,
+      "rateBasisPoints": 2825
+    },
+    {
+      "minimumIncomeCents": 8460000000,
+      "maximumIncomeCents": 8469999999,
+      "rateBasisPoints": 4230
+    },
+    {
+      "minimumIncomeCents": 3810000000,
+      "maximumIncomeCents": 3819999999,
+      "rateBasisPoints": 1905
+    },
+    {
+      "minimumIncomeCents": 8230000000,
+      "maximumIncomeCents": 8239999999,
+      "rateBasisPoints": 4115
+    },
+    {
+      "minimumIncomeCents": 7450000000,
+      "maximumIncomeCents": 7459999999,
+      "rateBasisPoints": 3725
+    },
+    {
+      "minimumIncomeCents": 3070000000,
+      "maximumIncomeCents": 3079999999,
+      "rateBasisPoints": 1535
+    },
+    {
+      "minimumIncomeCents": 8520000000,
+      "maximumIncomeCents": 8529999999,
+      "rateBasisPoints": 4260
+    },
+    {
+      "minimumIncomeCents": 8250000000,
+      "maximumIncomeCents": 8259999999,
+      "rateBasisPoints": 4125
+    },
+    {
+      "minimumIncomeCents": 5040000000,
+      "maximumIncomeCents": 5049999999,
+      "rateBasisPoints": 2520
+    },
+    {
+      "minimumIncomeCents": 3170000000,
+      "maximumIncomeCents": 3179999999,
+      "rateBasisPoints": 1585
+    },
+    {
+      "minimumIncomeCents": 8320000000,
+      "maximumIncomeCents": 8329999999,
+      "rateBasisPoints": 4160
+    },
+    {
+      "minimumIncomeCents": 6460000000,
+      "maximumIncomeCents": 6469999999,
+      "rateBasisPoints": 3230
+    },
+    {
+      "minimumIncomeCents": 1310000000,
+      "maximumIncomeCents": 1319999999,
+      "rateBasisPoints": 655
+    },
+    {
+      "minimumIncomeCents": 2450000000,
+      "maximumIncomeCents": 2459999999,
+      "rateBasisPoints": 1225
+    },
+    {
+      "minimumIncomeCents": 2070000000,
+      "maximumIncomeCents": 2079999999,
+      "rateBasisPoints": 1035
+    },
+    {
+      "minimumIncomeCents": 4930000000,
+      "maximumIncomeCents": 4939999999,
+      "rateBasisPoints": 2465
+    },
+    {
+      "minimumIncomeCents": 8430000000,
+      "maximumIncomeCents": 8439999999,
+      "rateBasisPoints": 4215
+    },
+    {
+      "minimumIncomeCents": 7070000000,
+      "maximumIncomeCents": 7079999999,
+      "rateBasisPoints": 3535
+    },
+    {
+      "minimumIncomeCents": 7560000000,
+      "maximumIncomeCents": 7569999999,
+      "rateBasisPoints": 3780
+    },
+    {
+      "minimumIncomeCents": 8010000000,
+      "maximumIncomeCents": 8019999999,
+      "rateBasisPoints": 4005
+    },
+    {
+      "minimumIncomeCents": 5240000000,
+      "maximumIncomeCents": 5249999999,
+      "rateBasisPoints": 2620
+    },
+    {
+      "minimumIncomeCents": 1710000000,
+      "maximumIncomeCents": 1719999999,
+      "rateBasisPoints": 855
+    },
+    {
+      "minimumIncomeCents": 4560000000,
+      "maximumIncomeCents": 4569999999,
+      "rateBasisPoints": 2280
+    },
+    {
+      "minimumIncomeCents": 530000000,
+      "maximumIncomeCents": 539999999,
+      "rateBasisPoints": 265
+    },
+    {
+      "minimumIncomeCents": 5710000000,
+      "maximumIncomeCents": 5719999999,
+      "rateBasisPoints": 2855
+    },
+    {
+      "minimumIncomeCents": 5010000000,
+      "maximumIncomeCents": 5019999999,
+      "rateBasisPoints": 2505
+    },
+    {
+      "minimumIncomeCents": 6710000000,
+      "maximumIncomeCents": 6719999999,
+      "rateBasisPoints": 3355
+    },
+    {
+      "minimumIncomeCents": 1280000000,
+      "maximumIncomeCents": 1289999999,
+      "rateBasisPoints": 640
+    },
+    {
+      "minimumIncomeCents": 1740000000,
+      "maximumIncomeCents": 1749999999,
+      "rateBasisPoints": 870
+    },
+    {
+      "minimumIncomeCents": 1360000000,
+      "maximumIncomeCents": 1369999999,
+      "rateBasisPoints": 680
+    },
+    {
+      "minimumIncomeCents": 1220000000,
+      "maximumIncomeCents": 1229999999,
+      "rateBasisPoints": 610
+    },
+    {
+      "minimumIncomeCents": 3900000000,
+      "maximumIncomeCents": 3909999999,
+      "rateBasisPoints": 1950
+    },
+    {
+      "minimumIncomeCents": 3390000000,
+      "maximumIncomeCents": 3399999999,
+      "rateBasisPoints": 1695
+    },
+    {
+      "minimumIncomeCents": 5220000000,
+      "maximumIncomeCents": 5229999999,
+      "rateBasisPoints": 2610
+    },
+    {
+      "minimumIncomeCents": 7620000000,
+      "maximumIncomeCents": 7629999999,
+      "rateBasisPoints": 3810
+    },
+    {
+      "minimumIncomeCents": 300000000,
+      "maximumIncomeCents": 309999999,
+      "rateBasisPoints": 150
+    },
+    {
+      "minimumIncomeCents": 8510000000,
+      "maximumIncomeCents": 8519999999,
+      "rateBasisPoints": 4255
+    },
+    {
+      "minimumIncomeCents": 2750000000,
+      "maximumIncomeCents": 2759999999,
+      "rateBasisPoints": 1375
+    },
+    {
+      "minimumIncomeCents": 7770000000,
+      "maximumIncomeCents": 7779999999,
+      "rateBasisPoints": 3885
+    },
+    {
+      "minimumIncomeCents": 6540000000,
+      "maximumIncomeCents": 6549999999,
+      "rateBasisPoints": 3270
+    },
+    {
+      "minimumIncomeCents": 4710000000,
+      "maximumIncomeCents": 4719999999,
+      "rateBasisPoints": 2355
+    },
+    {
+      "minimumIncomeCents": 8370000000,
+      "maximumIncomeCents": 8379999999,
+      "rateBasisPoints": 4185
+    },
+    {
+      "minimumIncomeCents": 5780000000,
+      "maximumIncomeCents": 5789999999,
+      "rateBasisPoints": 2890
+    },
+    {
+      "minimumIncomeCents": 7110000000,
+      "maximumIncomeCents": 7119999999,
+      "rateBasisPoints": 3555
+    },
+    {
+      "minimumIncomeCents": 2090000000,
+      "maximumIncomeCents": 2099999999,
+      "rateBasisPoints": 1045
+    },
+    {
+      "minimumIncomeCents": 7320000000,
+      "maximumIncomeCents": 7329999999,
+      "rateBasisPoints": 3660
+    },
+    {
+      "minimumIncomeCents": 6150000000,
+      "maximumIncomeCents": 6159999999,
+      "rateBasisPoints": 3075
+    },
+    {
+      "minimumIncomeCents": 5720000000,
+      "maximumIncomeCents": 5729999999,
+      "rateBasisPoints": 2860
+    },
+    {
+      "minimumIncomeCents": 5830000000,
+      "maximumIncomeCents": 5839999999,
+      "rateBasisPoints": 2915
+    },
+    {
+      "minimumIncomeCents": 7800000000,
+      "maximumIncomeCents": 7809999999,
+      "rateBasisPoints": 3900
+    },
+    {
+      "minimumIncomeCents": 4540000000,
+      "maximumIncomeCents": 4549999999,
+      "rateBasisPoints": 2270
+    },
+    {
+      "minimumIncomeCents": 1550000000,
+      "maximumIncomeCents": 1559999999,
+      "rateBasisPoints": 775
+    },
+    {
+      "minimumIncomeCents": 2110000000,
+      "maximumIncomeCents": 2119999999,
+      "rateBasisPoints": 1055
+    },
+    {
+      "minimumIncomeCents": 9860000000,
+      "maximumIncomeCents": 9869999999,
+      "rateBasisPoints": 4930
+    },
+    {
+      "minimumIncomeCents": 8480000000,
+      "maximumIncomeCents": 8489999999,
+      "rateBasisPoints": 4240
+    },
+    {
+      "minimumIncomeCents": 3990000000,
+      "maximumIncomeCents": 3999999999,
+      "rateBasisPoints": 1995
+    },
+    {
+      "minimumIncomeCents": 4020000000,
+      "maximumIncomeCents": 4029999999,
+      "rateBasisPoints": 2010
+    },
+    {
+      "minimumIncomeCents": 820000000,
+      "maximumIncomeCents": 829999999,
+      "rateBasisPoints": 410
+    },
+    {
+      "minimumIncomeCents": 8680000000,
+      "maximumIncomeCents": 8689999999,
+      "rateBasisPoints": 4340
+    },
+    {
+      "minimumIncomeCents": 370000000,
+      "maximumIncomeCents": 379999999,
+      "rateBasisPoints": 185
+    },
+    {
+      "minimumIncomeCents": 4590000000,
+      "maximumIncomeCents": 4599999999,
+      "rateBasisPoints": 2295
+    },
+    {
+      "minimumIncomeCents": 2870000000,
+      "maximumIncomeCents": 2879999999,
+      "rateBasisPoints": 1435
+    },
+    {
+      "minimumIncomeCents": 9360000000,
+      "maximumIncomeCents": 9369999999,
+      "rateBasisPoints": 4680
+    },
+    {
+      "minimumIncomeCents": 6270000000,
+      "maximumIncomeCents": 6279999999,
+      "rateBasisPoints": 3135
+    },
+    {
+      "minimumIncomeCents": 2960000000,
+      "maximumIncomeCents": 2969999999,
+      "rateBasisPoints": 1480
+    },
+    {
+      "minimumIncomeCents": 1730000000,
+      "maximumIncomeCents": 1739999999,
+      "rateBasisPoints": 865
+    },
+    {
+      "minimumIncomeCents": 5280000000,
+      "maximumIncomeCents": 5289999999,
+      "rateBasisPoints": 2640
+    },
+    {
+      "minimumIncomeCents": 3040000000,
+      "maximumIncomeCents": 3049999999,
+      "rateBasisPoints": 1520
+    },
+    {
+      "minimumIncomeCents": 5660000000,
+      "maximumIncomeCents": 5669999999,
+      "rateBasisPoints": 2830
+    },
+    {
+      "minimumIncomeCents": 9670000000,
+      "maximumIncomeCents": 9679999999,
+      "rateBasisPoints": 4835
+    },
+    {
+      "minimumIncomeCents": 8890000000,
+      "maximumIncomeCents": 8899999999,
+      "rateBasisPoints": 4445
+    },
+    {
+      "minimumIncomeCents": 350000000,
+      "maximumIncomeCents": 359999999,
+      "rateBasisPoints": 175
+    },
+    {
+      "minimumIncomeCents": 7510000000,
+      "maximumIncomeCents": 7519999999,
+      "rateBasisPoints": 3755
+    },
+    {
+      "minimumIncomeCents": 6110000000,
+      "maximumIncomeCents": 6119999999,
+      "rateBasisPoints": 3055
+    },
+    {
+      "minimumIncomeCents": 2080000000,
+      "maximumIncomeCents": 2089999999,
+      "rateBasisPoints": 1040
+    },
+    {
+      "minimumIncomeCents": 650000000,
+      "maximumIncomeCents": 659999999,
+      "rateBasisPoints": 325
+    },
+    {
+      "minimumIncomeCents": 8910000000,
+      "maximumIncomeCents": 8919999999,
+      "rateBasisPoints": 4455
+    },
+    {
+      "minimumIncomeCents": 0,
+      "maximumIncomeCents": 9999999,
+      "rateBasisPoints": 0
+    },
+    {
+      "minimumIncomeCents": 7910000000,
+      "maximumIncomeCents": 7919999999,
+      "rateBasisPoints": 3955
+    },
+    {
+      "minimumIncomeCents": 2920000000,
+      "maximumIncomeCents": 2929999999,
+      "rateBasisPoints": 1460
+    },
+    {
+      "minimumIncomeCents": 1200000000,
+      "maximumIncomeCents": 1209999999,
+      "rateBasisPoints": 600
+    },
+    {
+      "minimumIncomeCents": 8960000000,
+      "maximumIncomeCents": 8969999999,
+      "rateBasisPoints": 4480
+    },
+    {
+      "minimumIncomeCents": 2350000000,
+      "maximumIncomeCents": 2359999999,
+      "rateBasisPoints": 1175
+    },
+    {
+      "minimumIncomeCents": 8570000000,
+      "maximumIncomeCents": 8579999999,
+      "rateBasisPoints": 4285
+    },
+    {
+      "minimumIncomeCents": 3240000000,
+      "maximumIncomeCents": 3249999999,
+      "rateBasisPoints": 1620
+    },
+    {
+      "minimumIncomeCents": 2640000000,
+      "maximumIncomeCents": 2649999999,
+      "rateBasisPoints": 1320
+    },
+    {
+      "minimumIncomeCents": 7180000000,
+      "maximumIncomeCents": 7189999999,
+      "rateBasisPoints": 3590
+    },
+    {
+      "minimumIncomeCents": 8810000000,
+      "maximumIncomeCents": 8819999999,
+      "rateBasisPoints": 4405
+    },
+    {
+      "minimumIncomeCents": 9720000000,
+      "maximumIncomeCents": 9729999999,
+      "rateBasisPoints": 4860
+    },
+    {
+      "minimumIncomeCents": 1140000000,
+      "maximumIncomeCents": 1149999999,
+      "rateBasisPoints": 570
+    },
+    {
+      "minimumIncomeCents": 1000000000,
+      "maximumIncomeCents": 1009999999,
+      "rateBasisPoints": 500
+    },
+    {
+      "minimumIncomeCents": 2810000000,
+      "maximumIncomeCents": 2819999999,
+      "rateBasisPoints": 1405
+    },
+    {
+      "minimumIncomeCents": 3020000000,
+      "maximumIncomeCents": 3029999999,
+      "rateBasisPoints": 1510
+    },
+    {
+      "minimumIncomeCents": 5570000000,
+      "maximumIncomeCents": 5579999999,
+      "rateBasisPoints": 2785
+    },
+    {
+      "minimumIncomeCents": 5820000000,
+      "maximumIncomeCents": 5829999999,
+      "rateBasisPoints": 2910
+    },
+    {
+      "minimumIncomeCents": 5610000000,
+      "maximumIncomeCents": 5619999999,
+      "rateBasisPoints": 2805
+    },
+    {
+      "minimumIncomeCents": 8990000000,
+      "maximumIncomeCents": 8999999999,
+      "rateBasisPoints": 4495
+    },
+    {
+      "minimumIncomeCents": 6490000000,
+      "maximumIncomeCents": 6499999999,
+      "rateBasisPoints": 3245
+    },
+    {
+      "minimumIncomeCents": 3760000000,
+      "maximumIncomeCents": 3769999999,
+      "rateBasisPoints": 1880
+    },
+    {
+      "minimumIncomeCents": 7470000000,
+      "maximumIncomeCents": 7479999999,
+      "rateBasisPoints": 3735
+    },
+    {
+      "minimumIncomeCents": 6670000000,
+      "maximumIncomeCents": 6679999999,
+      "rateBasisPoints": 3335
+    },
+    {
+      "minimumIncomeCents": 5190000000,
+      "maximumIncomeCents": 5199999999,
+      "rateBasisPoints": 2595
+    },
+    {
+      "minimumIncomeCents": 6240000000,
+      "maximumIncomeCents": 6249999999,
+      "rateBasisPoints": 3120
+    },
+    {
+      "minimumIncomeCents": 3440000000,
+      "maximumIncomeCents": 3449999999,
+      "rateBasisPoints": 1720
+    },
+    {
+      "minimumIncomeCents": 8630000000,
+      "maximumIncomeCents": 8639999999,
+      "rateBasisPoints": 4315
+    },
+    {
+      "minimumIncomeCents": 660000000,
+      "maximumIncomeCents": 669999999,
+      "rateBasisPoints": 330
+    },
+    {
+      "minimumIncomeCents": 3360000000,
+      "maximumIncomeCents": 3369999999,
+      "rateBasisPoints": 1680
+    },
+    {
+      "minimumIncomeCents": 9130000000,
+      "maximumIncomeCents": 9139999999,
+      "rateBasisPoints": 4565
+    },
+    {
+      "minimumIncomeCents": 9400000000,
+      "maximumIncomeCents": 9409999999,
+      "rateBasisPoints": 4700
+    },
+    {
+      "minimumIncomeCents": 6250000000,
+      "maximumIncomeCents": 6259999999,
+      "rateBasisPoints": 3125
+    },
+    {
+      "minimumIncomeCents": 1840000000,
+      "maximumIncomeCents": 1849999999,
+      "rateBasisPoints": 920
+    },
+    {
+      "minimumIncomeCents": 6050000000,
+      "maximumIncomeCents": 6059999999,
+      "rateBasisPoints": 3025
+    },
+    {
+      "minimumIncomeCents": 9080000000,
+      "maximumIncomeCents": 9089999999,
+      "rateBasisPoints": 4540
+    },
+    {
+      "minimumIncomeCents": 1300000000,
+      "maximumIncomeCents": 1309999999,
+      "rateBasisPoints": 650
+    },
+    {
+      "minimumIncomeCents": 8590000000,
+      "maximumIncomeCents": 8599999999,
+      "rateBasisPoints": 4295
+    },
+    {
+      "minimumIncomeCents": 7250000000,
+      "maximumIncomeCents": 7259999999,
+      "rateBasisPoints": 3625
+    },
+    {
+      "minimumIncomeCents": 1460000000,
+      "maximumIncomeCents": 1469999999,
+      "rateBasisPoints": 730
+    },
+    {
+      "minimumIncomeCents": 5880000000,
+      "maximumIncomeCents": 5889999999,
+      "rateBasisPoints": 2940
+    },
+    {
+      "minimumIncomeCents": 5630000000,
+      "maximumIncomeCents": 5639999999,
+      "rateBasisPoints": 2815
+    },
+    {
+      "minimumIncomeCents": 4070000000,
+      "maximumIncomeCents": 4079999999,
+      "rateBasisPoints": 2035
+    },
+    {
+      "minimumIncomeCents": 9710000000,
+      "maximumIncomeCents": 9719999999,
+      "rateBasisPoints": 4855
+    },
+    {
+      "minimumIncomeCents": 5100000000,
+      "maximumIncomeCents": 5109999999,
+      "rateBasisPoints": 2550
+    },
+    {
+      "minimumIncomeCents": 4940000000,
+      "maximumIncomeCents": 4949999999,
+      "rateBasisPoints": 2470
+    },
+    {
+      "minimumIncomeCents": 20000000,
+      "maximumIncomeCents": 29999999,
+      "rateBasisPoints": 10
+    },
+    {
+      "minimumIncomeCents": 5320000000,
+      "maximumIncomeCents": 5329999999,
+      "rateBasisPoints": 2660
+    },
+    {
+      "minimumIncomeCents": 330000000,
+      "maximumIncomeCents": 339999999,
+      "rateBasisPoints": 165
+    },
+    {
+      "minimumIncomeCents": 5410000000,
+      "maximumIncomeCents": 5419999999,
+      "rateBasisPoints": 2705
+    },
+    {
+      "minimumIncomeCents": 6950000000,
+      "maximumIncomeCents": 6959999999,
+      "rateBasisPoints": 3475
+    },
+    {
+      "minimumIncomeCents": 8120000000,
+      "maximumIncomeCents": 8129999999,
+      "rateBasisPoints": 4060
+    },
+    {
+      "minimumIncomeCents": 1950000000,
+      "maximumIncomeCents": 1959999999,
+      "rateBasisPoints": 975
+    },
+    {
+      "minimumIncomeCents": 3510000000,
+      "maximumIncomeCents": 3519999999,
+      "rateBasisPoints": 1755
+    },
+    {
+      "minimumIncomeCents": 2800000000,
+      "maximumIncomeCents": 2809999999,
+      "rateBasisPoints": 1400
+    },
+    {
+      "minimumIncomeCents": 8240000000,
+      "maximumIncomeCents": 8249999999,
+      "rateBasisPoints": 4120
+    },
+    {
+      "minimumIncomeCents": 5950000000,
+      "maximumIncomeCents": 5959999999,
+      "rateBasisPoints": 2975
+    },
+    {
+      "minimumIncomeCents": 1770000000,
+      "maximumIncomeCents": 1779999999,
+      "rateBasisPoints": 885
+    },
+    {
+      "minimumIncomeCents": 3490000000,
+      "maximumIncomeCents": 3499999999,
+      "rateBasisPoints": 1745
+    },
+    {
+      "minimumIncomeCents": 9760000000,
+      "maximumIncomeCents": 9769999999,
+      "rateBasisPoints": 4880
+    },
+    {
+      "minimumIncomeCents": 90000000,
+      "maximumIncomeCents": 99999999,
+      "rateBasisPoints": 45
+    },
+    {
+      "minimumIncomeCents": 2860000000,
+      "maximumIncomeCents": 2869999999,
+      "rateBasisPoints": 1430
+    },
+    {
+      "minimumIncomeCents": 8640000000,
+      "maximumIncomeCents": 8649999999,
+      "rateBasisPoints": 4320
+    },
+    {
+      "minimumIncomeCents": 3200000000,
+      "maximumIncomeCents": 3209999999,
+      "rateBasisPoints": 1600
+    },
+    {
+      "minimumIncomeCents": 6560000000,
+      "maximumIncomeCents": 6569999999,
+      "rateBasisPoints": 3280
+    },
+    {
+      "minimumIncomeCents": 5980000000,
+      "maximumIncomeCents": 5989999999,
+      "rateBasisPoints": 2990
+    },
+    {
+      "minimumIncomeCents": 7690000000,
+      "maximumIncomeCents": 7699999999,
+      "rateBasisPoints": 3845
+    },
+    {
+      "minimumIncomeCents": 9940000000,
+      "maximumIncomeCents": 9949999999,
+      "rateBasisPoints": 4970
+    },
+    {
+      "minimumIncomeCents": 2530000000,
+      "maximumIncomeCents": 2539999999,
+      "rateBasisPoints": 1265
+    },
+    {
+      "minimumIncomeCents": 6750000000,
+      "maximumIncomeCents": 6759999999,
+      "rateBasisPoints": 3375
+    },
+    {
+      "minimumIncomeCents": 3220000000,
+      "maximumIncomeCents": 3229999999,
+      "rateBasisPoints": 1610
+    },
+    {
+      "minimumIncomeCents": 1230000000,
+      "maximumIncomeCents": 1239999999,
+      "rateBasisPoints": 615
+    },
+    {
+      "minimumIncomeCents": 7720000000,
+      "maximumIncomeCents": 7729999999,
+      "rateBasisPoints": 3860
+    },
+    {
+      "minimumIncomeCents": 3280000000,
+      "maximumIncomeCents": 3289999999,
+      "rateBasisPoints": 1640
+    },
+    {
+      "minimumIncomeCents": 3750000000,
+      "maximumIncomeCents": 3759999999,
+      "rateBasisPoints": 1875
+    },
+    {
+      "minimumIncomeCents": 6510000000,
+      "maximumIncomeCents": 6519999999,
+      "rateBasisPoints": 3255
+    },
+    {
+      "minimumIncomeCents": 8210000000,
+      "maximumIncomeCents": 8219999999,
+      "rateBasisPoints": 4105
+    },
+    {
+      "minimumIncomeCents": 8790000000,
+      "maximumIncomeCents": 8799999999,
+      "rateBasisPoints": 4395
+    },
+    {
+      "minimumIncomeCents": 8690000000,
+      "maximumIncomeCents": 8699999999,
+      "rateBasisPoints": 4345
+    },
+    {
+      "minimumIncomeCents": 2000000000,
+      "maximumIncomeCents": 2009999999,
+      "rateBasisPoints": 1000
+    },
+    {
+      "minimumIncomeCents": 8300000000,
+      "maximumIncomeCents": 8309999999,
+      "rateBasisPoints": 4150
+    },
+    {
+      "minimumIncomeCents": 4050000000,
+      "maximumIncomeCents": 4059999999,
+      "rateBasisPoints": 2025
+    },
+    {
+      "minimumIncomeCents": 8800000000,
+      "maximumIncomeCents": 8809999999,
+      "rateBasisPoints": 4400
+    },
+    {
+      "minimumIncomeCents": 6370000000,
+      "maximumIncomeCents": 6379999999,
+      "rateBasisPoints": 3185
+    },
+    {
+      "minimumIncomeCents": 7520000000,
+      "maximumIncomeCents": 7529999999,
+      "rateBasisPoints": 3760
+    },
+    {
+      "minimumIncomeCents": 2180000000,
+      "maximumIncomeCents": 2189999999,
+      "rateBasisPoints": 1090
+    },
+    {
+      "minimumIncomeCents": 2740000000,
+      "maximumIncomeCents": 2749999999,
+      "rateBasisPoints": 1370
+    },
+    {
+      "minimumIncomeCents": 9280000000,
+      "maximumIncomeCents": 9289999999,
+      "rateBasisPoints": 4640
+    },
+    {
+      "minimumIncomeCents": 7300000000,
+      "maximumIncomeCents": 7309999999,
+      "rateBasisPoints": 3650
+    },
+    {
+      "minimumIncomeCents": 2760000000,
+      "maximumIncomeCents": 2769999999,
+      "rateBasisPoints": 1380
+    },
+    {
+      "minimumIncomeCents": 1580000000,
+      "maximumIncomeCents": 1589999999,
+      "rateBasisPoints": 790
+    },
+    {
+      "minimumIncomeCents": 9170000000,
+      "maximumIncomeCents": 9179999999,
+      "rateBasisPoints": 4585
+    },
+    {
+      "minimumIncomeCents": 1570000000,
+      "maximumIncomeCents": 1579999999,
+      "rateBasisPoints": 785
+    },
+    {
+      "minimumIncomeCents": 8070000000,
+      "maximumIncomeCents": 8079999999,
+      "rateBasisPoints": 4035
+    },
+    {
+      "minimumIncomeCents": 8730000000,
+      "maximumIncomeCents": 8739999999,
+      "rateBasisPoints": 4365
+    },
+    {
+      "minimumIncomeCents": 7390000000,
+      "maximumIncomeCents": 7399999999,
+      "rateBasisPoints": 3695
+    },
+    {
+      "minimumIncomeCents": 1430000000,
+      "maximumIncomeCents": 1439999999,
+      "rateBasisPoints": 715
+    },
+    {
+      "minimumIncomeCents": 9580000000,
+      "maximumIncomeCents": 9589999999,
+      "rateBasisPoints": 4790
+    },
+    {
+      "minimumIncomeCents": 7810000000,
+      "maximumIncomeCents": 7819999999,
+      "rateBasisPoints": 3905
+    },
+    {
+      "minimumIncomeCents": 5550000000,
+      "maximumIncomeCents": 5559999999,
+      "rateBasisPoints": 2775
+    },
+    {
+      "minimumIncomeCents": 9500000000,
+      "maximumIncomeCents": 9509999999,
+      "rateBasisPoints": 4750
+    },
+    {
+      "minimumIncomeCents": 6440000000,
+      "maximumIncomeCents": 6449999999,
+      "rateBasisPoints": 3220
+    },
+    {
+      "minimumIncomeCents": 5120000000,
+      "maximumIncomeCents": 5129999999,
+      "rateBasisPoints": 2560
+    },
+    {
+      "minimumIncomeCents": 7920000000,
+      "maximumIncomeCents": 7929999999,
+      "rateBasisPoints": 3960
+    },
+    {
+      "minimumIncomeCents": 4010000000,
+      "maximumIncomeCents": 4019999999,
+      "rateBasisPoints": 2005
+    },
+    {
+      "minimumIncomeCents": 3110000000,
+      "maximumIncomeCents": 3119999999,
+      "rateBasisPoints": 1555
+    },
+    {
+      "minimumIncomeCents": 4740000000,
+      "maximumIncomeCents": 4749999999,
+      "rateBasisPoints": 2370
+    },
+    {
+      "minimumIncomeCents": 9060000000,
+      "maximumIncomeCents": 9069999999,
+      "rateBasisPoints": 4530
+    },
+    {
+      "minimumIncomeCents": 5370000000,
+      "maximumIncomeCents": 5379999999,
+      "rateBasisPoints": 2685
+    },
+    {
+      "minimumIncomeCents": 2040000000,
+      "maximumIncomeCents": 2049999999,
+      "rateBasisPoints": 1020
+    },
+    {
+      "minimumIncomeCents": 2970000000,
+      "maximumIncomeCents": 2979999999,
+      "rateBasisPoints": 1485
+    },
+    {
+      "minimumIncomeCents": 3870000000,
+      "maximumIncomeCents": 3879999999,
+      "rateBasisPoints": 1935
+    },
+    {
+      "minimumIncomeCents": 2540000000,
+      "maximumIncomeCents": 2549999999,
+      "rateBasisPoints": 1270
+    }
+  ]
+}

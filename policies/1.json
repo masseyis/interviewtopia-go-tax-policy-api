@@ -1,0 +1,11 @@
+{
+  "policyId": "interviewtopia-go-2026-household-1",
+  "residents": 1,
+  "currency": "USD",
+  "bands": [
+    { "minimumIncomeCents": 2000001, "maximumIncomeCents": null, "rateBasisPoints": 2000 },
+    { "minimumIncomeCents": 0, "maximumIncomeCents": 1000000, "rateBasisPoints": 0 },
+    { "minimumIncomeCents": 1000001, "maximumIncomeCents": 2000000, "rateBasisPoints": 1000 }
+  ]
+}
+
